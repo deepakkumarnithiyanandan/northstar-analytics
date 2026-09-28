@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,product,category,region,quantity,unit_price,revenue
+ORD-2504-00001,2025-04-25,C-0053,Arc Desk Lamp,Lighting,Southwest,1,74.55,74.55
+ORD-2503-00002,2025-03-31,C-0120,Precision Mouse,Accessories,Midwest,1,50.49,50.49
+ORD-2501-00003,2025-01-28,C-0215,Precision Mouse,Accessories,Southeast,2,55.74,111.48
+ORD-2510-00004,2025-10-12,C-0217,Notebook Set,Stationery,Southeast,1,18.88,18.88
+ORD-2506-00005,2025-06-09,C-0195,Task Lamp Mini,Lighting,Northeast,2,39.33,78.66
+ORD-2512-00006,2025-12-19,C-0275,Precision Mouse,Accessories,Northeast,2,55.98,111.96
+ORD-2601-00007,2026-01-23,C-0186,Halo Floor Lamp,Lighting,Midwest,1,167.38,167.38
+ORD-2503-00008,2025-03-13,C-0041,Arc Desk Lamp,Lighting,West,1,75.37,75.37
+ORD-2504-00009,2025-04-14,C-0084,Oak Side Table,Furniture,Southeast,1,145.38,145.38
+ORD-2508-00010,2025-08-03,C-0037,Canvas Tote,Accessories,Southwest,2,24.70,49.40
+ORD-2506-00011,2025-06-25,C-0139,Precision Mouse,Accessories,West,1,53.67,53.67
+ORD-2508-00012,2025-08-13,C-0118,Canvas Tote,Accessories,West,2,25.06,50.12
+ORD-2511-00013,2025-11-20,C-0291,Oak Side Table,Furniture,West,1,147.12,147.12
+ORD-2511-00014,2025-11-19,C-0330,Task Lamp Mini,Lighting,Midwest,1,44.59,44.59
+ORD-2509-00015,2025-09-29,C-0300,Halo Floor Lamp,Lighting,Midwest,2,165.02,330.04
+ORD-2602-00016,2026-02-13,C-0253,Form Task Chair,Furniture,Northeast,4,272.28,1089.12
+ORD-2502-00017,2025-02-18,C-0217,Desk Organizer,Stationery,Midwest,1,34.04,34.04
+ORD-2601-00018,2026-01-30,C-0284,Oak Side Table,Furniture,West,4,138.64,554.56
+ORD-2501-00019,2025-01-12,C-0137,Canvas Tote,Accessories,Southwest,1,25.48,25.48
+ORD-2512-00020,2025-12-15,C-0135,Halo Floor Lamp,Lighting,West,1,162.79,162.79
+ORD-2507-00021,2025-07-02,C-0328,Wireless Keyboard,Accessories,Midwest,1,90.78,90.78
+ORD-2507-00022,2025-07-23,C-0272,Halo Floor Lamp,Lighting,West,2,165.03,330.06
+ORD-2511-00023,2025-11-28,C-0158,Wireless Keyboard,Accessories,Southeast,1,87.05,87.05
+ORD-2509-00024,2025-09-04,C-0249,Desk Organizer,Stationery,West,3,33.61,100.83
+ORD-2606-00025,2026-06-30,C-0282,Notebook Set,Stationery,Northeast,1,17.93,17.93
+ORD-2606-00026,2026-06-25,C-0277,Desk Organizer,Stationery,Southwest,1,34.34,34.34
+ORD-2507-00027,2025-07-25,C-0192,Canvas Tote,Accessories,Midwest,1,24.66,24.66
+ORD-2606-00028,2026-06-14,C-0011,Wireless Keyboard,Accessories,Midwest,1,82.79,82.79
+ORD-2508-00029,2025-08-24,C-0031,Precision Mouse,Accessories,Southeast,1,55.80,55.80
+ORD-2502-00030,2025-02-02,C-0249,Desk Organizer,Stationery,Southeast,1,34.49,34.49
+ORD-2505-00031,2025-05-16,C-0125,Notebook Set,Stationery,West,2,18.22,36.44
+ORD-2602-00032,2026-02-21,C-0217,Task Lamp Mini,Lighting,Southeast,1,41.54,41.54
+ORD-2502-00033,2025-02-25,C-0207,Canvas Tote,Accessories,Southwest,4,22.46,89.84
+ORD-2504-00034,2025-04-22,C-0217,Studio Desk,Furniture,Northeast,1,421.51,421.51
+ORD-2604-00035,2026-04-19,C-0282,Studio Desk,Furniture,Northeast,3,421.13,1263.39
+ORD-2501-00036,2025-01-16,C-0086,Felt Pen Pack,Stationery,Southeast,3,14.78,44.34
+ORD-2605-00037,2026-05-08,C-0195,Task Lamp Mini,Lighting,Northeast,1,39.03,39.03
+ORD-2602-00038,2026-02-04,C-0217,Studio Desk,Furniture,Southwest,2,421.94,843.88
+ORD-2605-00039,2026-05-14,C-0297,Task Lamp Mini,Lighting,Southwest,1,45.15,45.15
+ORD-2503-00040,2025-03-04,C-0258,Notebook Set,Stationery,West,1,18.24,18.24
+ORD-2606-00041,2026-06-28,C-0096,Task Lamp Mini,Lighting,Northeast,3,39.18,117.54
+ORD-2503-00042,2025-03-11,C-0292,Canvas Tote,Accessories,Southeast,1,22.54,22.54
+ORD-2502-00043,2025-02-10,C-0268,Canvas Tote,Accessories,Southeast,1,24.32,24.32
+ORD-2509-00044,2025-09-25,C-0203,Task Lamp Mini,Lighting,Northeast,2,40.24,80.48
+ORD-2511-00045,2025-11-04,C-0005,Wireless Keyboard,Accessories,Midwest,3,95.20,285.60
+ORD-2504-00046,2025-04-13,C-0179,Arc Desk Lamp,Lighting,West,1,75.07,75.07
+ORD-2509-00047,2025-09-08,C-0155,Oak Side Table,Furniture,Southwest,1,145.37,145.37
+ORD-2606-00048,2026-06-26,C-0054,Arc Desk Lamp,Lighting,West,2,75.50,151.00
+ORD-2505-00049,2025-05-18,C-0080,Studio Desk,Furniture,Southeast,2,441.48,882.96
+ORD-2508-00050,2025-08-04,C-0136,Notebook Set,Stationery,Midwest,1,18.39,18.39
+ORD-2509-00051,2025-09-15,C-0217,Desk Organizer,Stationery,West,2,33.65,67.30
+ORD-2502-00052,2025-02-15,C-0135,Arc Desk Lamp,Lighting,Northeast,2,79.71,159.42
+ORD-2603-00053,2026-03-29,C-0039,Precision Mouse,Accessories,West,1,49.76,49.76
+ORD-2506-00054,2025-06-02,C-0076,Precision Mouse,Accessories,Midwest,2,54.71,109.42
+ORD-2502-00055,2025-02-12,C-0021,Form Task Chair,Furniture,West,2,302.69,605.38
+ORD-2508-00056,2025-08-04,C-0287,Canvas Tote,Accessories,West,1,23.44,23.44
+ORD-2602-00057,2026-02-21,C-0122,Felt Pen Pack,Stationery,West,2,14.95,29.90
+ORD-2507-00058,2025-07-01,C-0171,Desk Organizer,Stationery,West,1,37.36,37.36
+ORD-2602-00059,2026-02-26,C-0137,Notebook Set,Stationery,Northeast,2,18.89,37.78
+ORD-2504-00060,2025-04-21,C-0103,Oak Side Table,Furniture,West,1,137.35,137.35
+ORD-2604-00061,2026-04-17,C-0115,Form Task Chair,Furniture,Northeast,2,306.17,612.34
+ORD-2507-00062,2025-07-17,C-0143,Oak Side Table,Furniture,Southeast,1,128.49,128.49
+ORD-2606-00063,2026-06-06,C-0015,Oak Side Table,Furniture,Northeast,4,138.80,555.20
+ORD-2509-00064,2025-09-25,C-0056,Task Lamp Mini,Lighting,Midwest,3,40.42,121.26
+ORD-2512-00065,2025-12-20,C-0262,Notebook Set,Stationery,Northeast,1,18.31,18.31
+ORD-2507-00066,2025-07-14,C-0276,Studio Desk,Furniture,Southwest,2,391.12,782.24
+ORD-2507-00067,2025-07-21,C-0170,Form Task Chair,Furniture,Southwest,1,296.59,296.59
+ORD-2505-00068,2025-05-08,C-0210,Notebook Set,Stationery,Southeast,1,17.45,17.45
+ORD-2510-00069,2025-10-30,C-0195,Precision Mouse,Accessories,Southwest,1,55.42,55.42
+ORD-2506-00070,2025-06-28,C-0001,Canvas Tote,Accessories,Southeast,1,24.18,24.18
+ORD-2508-00071,2025-08-04,C-0239,Wireless Keyboard,Accessories,Midwest,1,91.20,91.20
+ORD-2508-00072,2025-08-07,C-0087,Wireless Keyboard,Accessories,Southwest,2,95.55,191.10
+ORD-2510-00073,2025-10-18,C-0121,Precision Mouse,Accessories,Southwest,1,52.58,52.58
+ORD-2508-00074,2025-08-19,C-0244,Notebook Set,Stationery,Southwest,1,16.69,16.69
+ORD-2503-00075,2025-03-16,C-0197,Wireless Keyboard,Accessories,Midwest,2,90.08,180.16
+ORD-2509-00076,2025-09-07,C-0055,Halo Floor Lamp,Lighting,West,1,174.30,174.30
+ORD-2508-00077,2025-08-13,C-0026,Task Lamp Mini,Lighting,Midwest,3,42.12,126.36
+ORD-2505-00078,2025-05-05,C-0287,Wireless Keyboard,Accessories,Midwest,2,91.39,182.78
+ORD-2603-00079,2026-03-30,C-0281,Precision Mouse,Accessories,Midwest,2,54.04,108.08
+ORD-2506-00080,2025-06-12,C-0127,Notebook Set,Stationery,West,1,17.31,17.31
+ORD-2510-00081,2025-10-11,C-0141,Notebook Set,Stationery,Midwest,1,18.37,18.37
+ORD-2510-00082,2025-10-20,C-0042,Studio Desk,Furniture,Northeast,1,451.73,451.73
+ORD-2508-00083,2025-08-25,C-0213,Oak Side Table,Furniture,Southeast,1,131.68,131.68
+ORD-2604-00084,2026-04-23,C-0300,Oak Side Table,Furniture,West,1,136.24,136.24
+ORD-2501-00085,2025-01-21,C-0004,Desk Organizer,Stationery,West,2,35.31,70.62
+ORD-2511-00086,2025-11-02,C-0215,Notebook Set,Stationery,Midwest,2,19.31,38.62
+ORD-2508-00087,2025-08-14,C-0200,Wireless Keyboard,Accessories,Southeast,1,88.80,88.80
+ORD-2602-00088,2026-02-19,C-0319,Notebook Set,Stationery,Midwest,2,19.21,38.42
+ORD-2602-00089,2026-02-08,C-0220,Precision Mouse,Accessories,Northeast,1,50.41,50.41
+ORD-2604-00090,2026-04-18,C-0233,Task Lamp Mini,Lighting,Southeast,1,40.84,40.84
+ORD-2601-00091,2026-01-24,C-0042,Studio Desk,Furniture,Midwest,3,419.67,1259.01
+ORD-2502-00092,2025-02-23,C-0334,Felt Pen Pack,Stationery,Northeast,1,14.34,14.34
+ORD-2502-00093,2025-02-01,C-0079,Felt Pen Pack,Stationery,Southeast,1,12.93,12.93
+ORD-2604-00094,2026-04-30,C-0132,Canvas Tote,Accessories,Southwest,1,22.92,22.92
+ORD-2506-00095,2025-06-21,C-0084,Precision Mouse,Accessories,West,3,55.89,167.67
+ORD-2504-00096,2025-04-21,C-0193,Precision Mouse,Accessories,Southeast,3,54.65,163.95
+ORD-2507-00097,2025-07-23,C-0053,Halo Floor Lamp,Lighting,Southwest,1,167.34,167.34
+ORD-2511-00098,2025-11-05,C-0290,Desk Organizer,Stationery,West,1,33.82,33.82
+ORD-2512-00099,2025-12-22,C-0332,Precision Mouse,Accessories,Southeast,1,50.28,50.28
+ORD-2603-00100,2026-03-07,C-0326,Notebook Set,Stationery,West,1,19.33,19.33
+ORD-2604-00101,2026-04-16,C-0334,Canvas Tote,Accessories,Southeast,1,24.90,24.90
+ORD-2605-00102,2026-05-11,C-0166,Wireless Keyboard,Accessories,West,2,90.32,180.64
+ORD-2503-00103,2025-03-30,C-0292,Studio Desk,Furniture,Southwest,1,442.03,442.03
+ORD-2601-00104,2026-01-24,C-0250,Form Task Chair,Furniture,Southeast,1,280.91,280.91
+ORD-2509-00105,2025-09-22,C-0142,Form Task Chair,Furniture,Midwest,2,298.30,596.60
+ORD-2606-00106,2026-06-14,C-0251,Felt Pen Pack,Stationery,Midwest,1,14.49,14.49
+ORD-2509-00107,2025-09-04,C-0009,Canvas Tote,Accessories,Northeast,1,23.96,23.96
+ORD-2508-00108,2025-08-15,C-0189,Oak Side Table,Furniture,Midwest,1,141.62,141.62
+ORD-2606-00109,2026-06-28,C-0181,Form Task Chair,Furniture,Southwest,4,291.33,1165.32
+ORD-2510-00110,2025-10-05,C-0162,Form Task Chair,Furniture,Northeast,1,299.23,299.23
+ORD-2507-00111,2025-07-09,C-0302,Task Lamp Mini,Lighting,West,2,40.50,81.00
+ORD-2606-00112,2026-06-22,C-0152,Precision Mouse,Accessories,Southeast,4,56.87,227.48
+ORD-2507-00113,2025-07-03,C-0024,Form Task Chair,Furniture,West,2,271.73,543.46
+ORD-2510-00114,2025-10-27,C-0252,Canvas Tote,Accessories,Northeast,1,25.41,25.41
+ORD-2501-00115,2025-01-13,C-0095,Precision Mouse,Accessories,West,1,53.49,53.49
+ORD-2509-00116,2025-09-16,C-0206,Felt Pen Pack,Stationery,Midwest,1,14.72,14.72
+ORD-2502-00117,2025-02-24,C-0044,Halo Floor Lamp,Lighting,West,2,175.79,351.58
+ORD-2505-00118,2025-05-02,C-0317,Precision Mouse,Accessories,Southeast,1,54.83,54.83
+ORD-2606-00119,2026-06-20,C-0302,Oak Side Table,Furniture,West,2,133.53,267.06
+ORD-2511-00120,2025-11-09,C-0051,Precision Mouse,Accessories,West,1,57.98,57.98
+ORD-2508-00121,2025-08-01,C-0123,Canvas Tote,Accessories,Northeast,1,22.39,22.39
+ORD-2503-00122,2025-03-18,C-0241,Task Lamp Mini,Lighting,Southeast,1,43.27,43.27
+ORD-2508-00123,2025-08-26,C-0037,Form Task Chair,Furniture,Southwest,1,305.63,305.63
+ORD-2509-00124,2025-09-28,C-0102,Notebook Set,Stationery,Midwest,1,18.46,18.46
+ORD-2508-00125,2025-08-19,C-0037,Canvas Tote,Accessories,Northeast,2,25.25,50.50
+ORD-2511-00126,2025-11-11,C-0225,Precision Mouse,Accessories,Northeast,2,57.64,115.28
+ORD-2511-00127,2025-11-08,C-0253,Canvas Tote,Accessories,Midwest,3,24.00,72.00
+ORD-2502-00128,2025-02-10,C-0014,Desk Organizer,Stationery,Northeast,2,36.60,73.20
+ORD-2501-00129,2025-01-22,C-0021,Felt Pen Pack,Stationery,Southwest,1,13.48,13.48
+ORD-2506-00130,2025-06-29,C-0093,Wireless Keyboard,Accessories,West,1,94.92,94.92
+ORD-2603-00131,2026-03-23,C-0179,Canvas Tote,Accessories,Southeast,1,22.43,22.43
+ORD-2511-00132,2025-11-25,C-0254,Canvas Tote,Accessories,Southeast,2,23.35,46.70
+ORD-2602-00133,2026-02-15,C-0162,Notebook Set,Stationery,Southeast,1,17.87,17.87
+ORD-2504-00134,2025-04-29,C-0001,Felt Pen Pack,Stationery,Southwest,1,14.03,14.03
+ORD-2604-00135,2026-04-19,C-0256,Oak Side Table,Furniture,Southwest,1,134.95,134.95
+ORD-2502-00136,2025-02-22,C-0225,Task Lamp Mini,Lighting,West,1,44.87,44.87
+ORD-2605-00137,2026-05-12,C-0123,Halo Floor Lamp,Lighting,Southwest,3,166.86,500.58
+ORD-2511-00138,2025-11-15,C-0059,Precision Mouse,Accessories,Midwest,1,50.49,50.49
+ORD-2505-00139,2025-05-01,C-0150,Canvas Tote,Accessories,Midwest,1,25.66,25.66
+ORD-2510-00140,2025-10-07,C-0234,Oak Side Table,Furniture,Midwest,1,137.39,137.39
+ORD-2601-00141,2026-01-28,C-0070,Task Lamp Mini,Lighting,West,1,43.66,43.66
+ORD-2510-00142,2025-10-10,C-0260,Notebook Set,Stationery,Southeast,2,17.54,35.08
+ORD-2501-00143,2025-01-03,C-0251,Form Task Chair,Furniture,West,1,293.02,293.02
+ORD-2604-00144,2026-04-03,C-0279,Precision Mouse,Accessories,Southeast,1,54.45,54.45
+ORD-2511-00145,2025-11-26,C-0197,Desk Organizer,Stationery,Southeast,4,34.50,138.00
+ORD-2602-00146,2026-02-25,C-0196,Arc Desk Lamp,Lighting,Southeast,2,80.56,161.12
+ORD-2506-00147,2025-06-05,C-0303,Wireless Keyboard,Accessories,Southeast,1,89.03,89.03
+ORD-2504-00148,2025-04-13,C-0234,Desk Organizer,Stationery,Northeast,1,36.15,36.15
+ORD-2505-00149,2025-05-28,C-0241,Oak Side Table,Furniture,West,1,130.37,130.37
+ORD-2509-00150,2025-09-29,C-0169,Form Task Chair,Furniture,West,1,295.93,295.93
+ORD-2601-00151,2026-01-25,C-0250,Felt Pen Pack,Stationery,West,1,14.87,14.87
+ORD-2502-00152,2025-02-06,C-0148,Canvas Tote,Accessories,West,1,24.71,24.71
+ORD-2504-00153,2025-04-03,C-0052,Wireless Keyboard,Accessories,Midwest,1,90.90,90.90
+ORD-2511-00154,2025-11-03,C-0151,Desk Organizer,Stationery,Southeast,1,37.71,37.71
+ORD-2603-00155,2026-03-18,C-0093,Halo Floor Lamp,Lighting,Northeast,1,165.73,165.73
+ORD-2503-00156,2025-03-22,C-0255,Precision Mouse,Accessories,West,1,55.58,55.58
+ORD-2505-00157,2025-05-27,C-0005,Studio Desk,Furniture,West,1,422.25,422.25
+ORD-2604-00158,2026-04-22,C-0227,Desk Organizer,Stationery,West,1,34.03,34.03
+ORD-2511-00159,2025-11-03,C-0155,Canvas Tote,Accessories,Northeast,1,23.04,23.04
+ORD-2601-00160,2026-01-29,C-0184,Desk Organizer,Stationery,Midwest,1,35.32,35.32
+ORD-2510-00161,2025-10-30,C-0005,Arc Desk Lamp,Lighting,Midwest,2,76.70,153.40
+ORD-2502-00162,2025-02-20,C-0147,Desk Organizer,Stationery,West,2,37.92,75.84
+ORD-2508-00163,2025-08-24,C-0318,Precision Mouse,Accessories,Southeast,1,55.18,55.18
+ORD-2505-00164,2025-05-21,C-0159,Canvas Tote,Accessories,West,2,24.56,49.12
+ORD-2502-00165,2025-02-04,C-0152,Precision Mouse,Accessories,Southeast,2,50.46,100.92
+ORD-2603-00166,2026-03-02,C-0188,Task Lamp Mini,Lighting,Midwest,1,42.26,42.26
+ORD-2510-00167,2025-10-07,C-0247,Notebook Set,Stationery,West,1,18.94,18.94
+ORD-2510-00168,2025-10-30,C-0039,Notebook Set,Stationery,Northeast,1,16.89,16.89
+ORD-2508-00169,2025-08-20,C-0286,Desk Organizer,Stationery,Southeast,2,38.76,77.52
+ORD-2602-00170,2026-02-09,C-0135,Arc Desk Lamp,Lighting,Midwest,1,77.44,77.44
+ORD-2601-00171,2026-01-16,C-0288,Halo Floor Lamp,Lighting,Southeast,1,151.54,151.54
+ORD-2508-00172,2025-08-15,C-0155,Canvas Tote,Accessories,Southwest,1,23.86,23.86
+ORD-2504-00173,2025-04-30,C-0253,Halo Floor Lamp,Lighting,Northeast,3,158.87,476.61
+ORD-2508-00174,2025-08-29,C-0277,Desk Organizer,Stationery,Southeast,1,35.73,35.73
+ORD-2506-00175,2025-06-08,C-0316,Desk Organizer,Stationery,Southeast,1,37.92,37.92
+ORD-2510-00176,2025-10-14,C-0121,Arc Desk Lamp,Lighting,West,1,77.29,77.29
+ORD-2504-00177,2025-04-12,C-0331,Felt Pen Pack,Stationery,Southeast,1,14.90,14.90
+ORD-2602-00178,2026-02-12,C-0233,Studio Desk,Furniture,Northeast,3,455.53,1366.59
+ORD-2508-00179,2025-08-06,C-0171,Canvas Tote,Accessories,Southeast,1,22.16,22.16
+ORD-2505-00180,2025-05-09,C-0284,Notebook Set,Stationery,Southeast,1,18.95,18.95
+ORD-2508-00181,2025-08-10,C-0306,Notebook Set,Stationery,Northeast,1,18.79,18.79
+ORD-2505-00182,2025-05-29,C-0057,Felt Pen Pack,Stationery,Southwest,1,14.67,14.67
+ORD-2501-00183,2025-01-27,C-0302,Halo Floor Lamp,Lighting,Southeast,1,171.57,171.57
+ORD-2506-00184,2025-06-28,C-0059,Studio Desk,Furniture,Southwest,1,419.63,419.63
+ORD-2605-00185,2026-05-03,C-0232,Wireless Keyboard,Accessories,Midwest,1,90.33,90.33
+ORD-2502-00186,2025-02-14,C-0155,Notebook Set,Stationery,Midwest,2,18.46,36.92
+ORD-2502-00187,2025-02-01,C-0056,Arc Desk Lamp,Lighting,Midwest,1,76.77,76.77
+ORD-2603-00188,2026-03-31,C-0034,Arc Desk Lamp,Lighting,Northeast,1,79.35,79.35
+ORD-2511-00189,2025-11-29,C-0259,Oak Side Table,Furniture,Southwest,1,133.47,133.47
+ORD-2504-00190,2025-04-12,C-0283,Notebook Set,Stationery,Southwest,1,18.45,18.45
+ORD-2508-00191,2025-08-09,C-0233,Wireless Keyboard,Accessories,Southeast,2,87.77,175.54
+ORD-2504-00192,2025-04-08,C-0079,Form Task Chair,Furniture,Southwest,1,277.67,277.67
+ORD-2605-00193,2026-05-01,C-0050,Arc Desk Lamp,Lighting,Southwest,2,72.92,145.84
+ORD-2601-00194,2026-01-17,C-0288,Notebook Set,Stationery,Midwest,1,18.25,18.25
+ORD-2505-00195,2025-05-06,C-0217,Oak Side Table,Furniture,West,2,147.74,295.48
+ORD-2502-00196,2025-02-22,C-0296,Felt Pen Pack,Stationery,Midwest,1,13.67,13.67
+ORD-2506-00197,2025-06-08,C-0285,Canvas Tote,Accessories,Southeast,1,22.50,22.50
+ORD-2510-00198,2025-10-13,C-0319,Precision Mouse,Accessories,Southwest,2,56.98,113.96
+ORD-2501-00199,2025-01-27,C-0015,Precision Mouse,Accessories,Northeast,1,55.67,55.67
+ORD-2511-00200,2025-11-13,C-0074,Felt Pen Pack,Stationery,Midwest,1,13.29,13.29
+ORD-2602-00201,2026-02-15,C-0047,Arc Desk Lamp,Lighting,Southwest,2,83.89,167.78
+ORD-2508-00202,2025-08-09,C-0160,Oak Side Table,Furniture,Southwest,1,130.44,130.44
+ORD-2503-00203,2025-03-28,C-0026,Desk Organizer,Stationery,Southwest,1,37.47,37.47
+ORD-2510-00204,2025-10-06,C-0213,Wireless Keyboard,Accessories,Southeast,1,90.52,90.52
+ORD-2606-00205,2026-06-09,C-0304,Halo Floor Lamp,Lighting,Midwest,1,158.31,158.31
+ORD-2511-00206,2025-11-12,C-0004,Arc Desk Lamp,Lighting,Southeast,1,79.24,79.24
+ORD-2508-00207,2025-08-05,C-0062,Notebook Set,Stationery,Northeast,2,17.39,34.78
+ORD-2603-00208,2026-03-17,C-0257,Task Lamp Mini,Lighting,Midwest,1,43.37,43.37
+ORD-2512-00209,2025-12-29,C-0010,Arc Desk Lamp,Lighting,Midwest,2,72.29,144.58
+ORD-2503-00210,2025-03-21,C-0328,Desk Organizer,Stationery,Southeast,1,36.42,36.42
+ORD-2504-00211,2025-04-28,C-0317,Oak Side Table,Furniture,Midwest,3,130.75,392.25
+ORD-2601-00212,2026-01-06,C-0302,Halo Floor Lamp,Lighting,Southeast,2,157.26,314.52
+ORD-2503-00213,2025-03-22,C-0171,Oak Side Table,Furniture,West,1,134.46,134.46
+ORD-2503-00214,2025-03-20,C-0179,Wireless Keyboard,Accessories,Southeast,1,89.14,89.14
+ORD-2506-00215,2025-06-01,C-0309,Studio Desk,Furniture,Northeast,1,404.41,404.41
+ORD-2503-00216,2025-03-19,C-0289,Task Lamp Mini,Lighting,Southwest,2,41.96,83.92
+ORD-2604-00217,2026-04-05,C-0320,Canvas Tote,Accessories,Southeast,2,24.55,49.10
+ORD-2511-00218,2025-11-20,C-0156,Halo Floor Lamp,Lighting,West,1,162.48,162.48
+ORD-2502-00219,2025-02-27,C-0020,Form Task Chair,Furniture,Northeast,1,287.23,287.23
+ORD-2510-00220,2025-10-21,C-0315,Halo Floor Lamp,Lighting,Midwest,2,173.32,346.64
+ORD-2601-00221,2026-01-29,C-0022,Wireless Keyboard,Accessories,Midwest,1,93.16,93.16
+ORD-2507-00222,2025-07-12,C-0032,Form Task Chair,Furniture,Midwest,1,272.86,272.86
+ORD-2512-00223,2025-12-18,C-0021,Felt Pen Pack,Stationery,Southeast,1,14.33,14.33
+ORD-2603-00224,2026-03-25,C-0187,Felt Pen Pack,Stationery,Southeast,1,14.25,14.25
+ORD-2510-00225,2025-10-17,C-0027,Oak Side Table,Furniture,West,2,141.95,283.90
+ORD-2512-00226,2025-12-09,C-0146,Arc Desk Lamp,Lighting,Southeast,1,80.23,80.23
+ORD-2506-00227,2025-06-03,C-0180,Form Task Chair,Furniture,Southeast,1,272.42,272.42
+ORD-2602-00228,2026-02-06,C-0287,Halo Floor Lamp,Lighting,Southeast,2,153.10,306.20
+ORD-2512-00229,2025-12-03,C-0270,Notebook Set,Stationery,Northeast,1,18.95,18.95
+ORD-2603-00230,2026-03-10,C-0110,Wireless Keyboard,Accessories,Southeast,1,86.28,86.28
+ORD-2605-00231,2026-05-13,C-0152,Task Lamp Mini,Lighting,West,4,39.68,158.72
+ORD-2504-00232,2025-04-14,C-0270,Wireless Keyboard,Accessories,Northeast,1,92.40,92.40
+ORD-2512-00233,2025-12-11,C-0079,Desk Organizer,Stationery,Northeast,1,36.56,36.56
+ORD-2506-00234,2025-06-19,C-0122,Notebook Set,Stationery,West,1,17.61,17.61
+ORD-2510-00235,2025-10-19,C-0123,Notebook Set,Stationery,Southeast,2,17.23,34.46
+ORD-2604-00236,2026-04-26,C-0293,Desk Organizer,Stationery,West,1,37.03,37.03
+ORD-2604-00237,2026-04-18,C-0215,Notebook Set,Stationery,West,2,18.01,36.02
+ORD-2507-00238,2025-07-24,C-0329,Notebook Set,Stationery,Midwest,1,17.28,17.28
+ORD-2601-00239,2026-01-16,C-0064,Precision Mouse,Accessories,Southeast,1,56.99,56.99
+ORD-2506-00240,2025-06-14,C-0224,Studio Desk,Furniture,Northeast,2,401.02,802.04
+ORD-2508-00241,2025-08-16,C-0213,Notebook Set,Stationery,Northeast,2,19.24,38.48
+ORD-2605-00242,2026-05-30,C-0115,Oak Side Table,Furniture,Northeast,1,128.76,128.76
+ORD-2504-00243,2025-04-12,C-0071,Desk Organizer,Stationery,Northeast,1,37.68,37.68
+ORD-2604-00244,2026-04-29,C-0230,Canvas Tote,Accessories,Southwest,1,24.79,24.79
+ORD-2503-00245,2025-03-23,C-0312,Arc Desk Lamp,Lighting,Midwest,1,73.63,73.63
+ORD-2504-00246,2025-04-24,C-0123,Notebook Set,Stationery,Southeast,1,16.91,16.91
+ORD-2604-00247,2026-04-14,C-0275,Arc Desk Lamp,Lighting,Northeast,2,78.00,156.00
+ORD-2606-00248,2026-06-12,C-0001,Precision Mouse,Accessories,Southwest,2,52.20,104.40
+ORD-2509-00249,2025-09-04,C-0269,Precision Mouse,Accessories,West,1,55.45,55.45
+ORD-2503-00250,2025-03-11,C-0260,Felt Pen Pack,Stationery,Midwest,1,14.64,14.64
+ORD-2602-00251,2026-02-04,C-0192,Desk Organizer,Stationery,Southeast,1,35.35,35.35
+ORD-2501-00252,2025-01-17,C-0322,Form Task Chair,Furniture,Northeast,1,277.03,277.03
+ORD-2512-00253,2025-12-07,C-0330,Halo Floor Lamp,Lighting,Northeast,1,159.76,159.76
+ORD-2604-00254,2026-04-21,C-0070,Felt Pen Pack,Stationery,Northeast,1,13.29,13.29
+ORD-2604-00255,2026-04-14,C-0022,Arc Desk Lamp,Lighting,Southeast,1,81.63,81.63
+ORD-2511-00256,2025-11-14,C-0130,Precision Mouse,Accessories,Northeast,4,54.37,217.48
+ORD-2507-00257,2025-07-15,C-0170,Form Task Chair,Furniture,Southeast,2,268.09,536.18
+ORD-2601-00258,2026-01-12,C-0198,Wireless Keyboard,Accessories,Southeast,1,88.14,88.14
+ORD-2507-00259,2025-07-11,C-0266,Wireless Keyboard,Accessories,Southeast,1,95.04,95.04
+ORD-2503-00260,2025-03-26,C-0093,Notebook Set,Stationery,Midwest,1,18.30,18.30
+ORD-2511-00261,2025-11-25,C-0229,Halo Floor Lamp,Lighting,Midwest,1,158.64,158.64
+ORD-2603-00262,2026-03-13,C-0181,Task Lamp Mini,Lighting,Southwest,1,41.64,41.64
+ORD-2603-00263,2026-03-22,C-0039,Studio Desk,Furniture,Southwest,4,455.46,1821.84
+ORD-2602-00264,2026-02-20,C-0016,Form Task Chair,Furniture,Northeast,2,297.30,594.60
+ORD-2603-00265,2026-03-25,C-0188,Arc Desk Lamp,Lighting,Southeast,1,81.48,81.48
+ORD-2502-00266,2025-02-03,C-0191,Precision Mouse,Accessories,Midwest,1,57.88,57.88
+ORD-2503-00267,2025-03-20,C-0333,Precision Mouse,Accessories,Southeast,1,53.12,53.12
+ORD-2504-00268,2025-04-27,C-0288,Arc Desk Lamp,Lighting,Northeast,1,78.22,78.22
+ORD-2509-00269,2025-09-24,C-0252,Canvas Tote,Accessories,Northeast,1,24.43,24.43
+ORD-2505-00270,2025-05-19,C-0228,Desk Organizer,Stationery,West,1,38.30,38.30
+ORD-2511-00271,2025-11-24,C-0149,Canvas Tote,Accessories,West,2,24.19,48.38
+ORD-2506-00272,2025-06-11,C-0186,Canvas Tote,Accessories,Midwest,3,24.53,73.59
+ORD-2505-00273,2025-05-05,C-0253,Felt Pen Pack,Stationery,Northeast,2,13.41,26.82
+ORD-2601-00274,2026-01-13,C-0045,Wireless Keyboard,Accessories,Northeast,4,83.73,334.92
+ORD-2602-00275,2026-02-12,C-0210,Felt Pen Pack,Stationery,West,2,14.06,28.12
+ORD-2503-00276,2025-03-17,C-0239,Halo Floor Lamp,Lighting,Southwest,1,152.83,152.83
+ORD-2512-00277,2025-12-19,C-0301,Halo Floor Lamp,Lighting,Northeast,2,165.35,330.70
+ORD-2505-00278,2025-05-13,C-0064,Wireless Keyboard,Accessories,Midwest,2,82.67,165.34
+ORD-2511-00279,2025-11-08,C-0178,Task Lamp Mini,Lighting,West,1,43.41,43.41
+ORD-2606-00280,2026-06-16,C-0326,Desk Organizer,Stationery,West,2,34.56,69.12
+ORD-2510-00281,2025-10-09,C-0258,Halo Floor Lamp,Lighting,Southwest,1,164.88,164.88
+ORD-2506-00282,2025-06-07,C-0173,Task Lamp Mini,Lighting,West,1,44.70,44.70
+ORD-2502-00283,2025-02-12,C-0329,Notebook Set,Stationery,Southwest,1,16.69,16.69
+ORD-2509-00284,2025-09-29,C-0328,Canvas Tote,Accessories,Northeast,2,23.68,47.36
+ORD-2510-00285,2025-10-24,C-0208,Canvas Tote,Accessories,Southeast,1,23.02,23.02
+ORD-2503-00286,2025-03-16,C-0238,Canvas Tote,Accessories,Southeast,1,23.68,23.68
+ORD-2505-00287,2025-05-28,C-0177,Form Task Chair,Furniture,West,2,299.83,599.66
+ORD-2505-00288,2025-05-14,C-0124,Notebook Set,Stationery,Midwest,1,16.87,16.87
+ORD-2510-00289,2025-10-01,C-0197,Wireless Keyboard,Accessories,West,1,82.60,82.60
+ORD-2603-00290,2026-03-05,C-0168,Studio Desk,Furniture,West,2,401.86,803.72
+ORD-2511-00291,2025-11-17,C-0240,Task Lamp Mini,Lighting,Midwest,1,45.33,45.33
+ORD-2511-00292,2025-11-12,C-0235,Wireless Keyboard,Accessories,West,1,87.48,87.48
+ORD-2508-00293,2025-08-09,C-0306,Precision Mouse,Accessories,West,1,52.11,52.11
+ORD-2604-00294,2026-04-27,C-0069,Form Task Chair,Furniture,West,1,270.85,270.85
+ORD-2601-00295,2026-01-10,C-0292,Notebook Set,Stationery,Midwest,1,17.71,17.71
+ORD-2601-00296,2026-01-07,C-0282,Precision Mouse,Accessories,Southeast,1,54.04,54.04
+ORD-2505-00297,2025-05-02,C-0174,Halo Floor Lamp,Lighting,Midwest,1,160.67,160.67
+ORD-2601-00298,2026-01-10,C-0257,Notebook Set,Stationery,Northeast,1,18.03,18.03
+ORD-2502-00299,2025-02-09,C-0234,Halo Floor Lamp,Lighting,Northeast,1,163.31,163.31
+ORD-2606-00300,2026-06-12,C-0202,Halo Floor Lamp,Lighting,West,3,159.24,477.72
+ORD-2511-00301,2025-11-03,C-0251,Precision Mouse,Accessories,Southwest,1,54.08,54.08
+ORD-2511-00302,2025-11-03,C-0057,Wireless Keyboard,Accessories,West,1,86.60,86.60
+ORD-2511-00303,2025-11-12,C-0014,Notebook Set,Stationery,Midwest,2,18.54,37.08
+ORD-2509-00304,2025-09-29,C-0296,Felt Pen Pack,Stationery,Southeast,2,14.62,29.24
+ORD-2502-00305,2025-02-22,C-0318,Precision Mouse,Accessories,West,1,55.11,55.11
+ORD-2601-00306,2026-01-25,C-0057,Halo Floor Lamp,Lighting,Northeast,1,151.71,151.71
+ORD-2603-00307,2026-03-28,C-0211,Form Task Chair,Furniture,Midwest,1,297.81,297.81
+ORD-2604-00308,2026-04-28,C-0071,Desk Organizer,Stationery,Midwest,2,33.48,66.96
+ORD-2511-00309,2025-11-29,C-0089,Felt Pen Pack,Stationery,Midwest,1,13.72,13.72
+ORD-2606-00310,2026-06-30,C-0330,Form Task Chair,Furniture,West,1,301.58,301.58
+ORD-2509-00311,2025-09-28,C-0286,Precision Mouse,Accessories,Southeast,1,51.81,51.81
+ORD-2511-00312,2025-11-01,C-0251,Notebook Set,Stationery,Southeast,2,18.55,37.10
+ORD-2512-00313,2025-12-24,C-0148,Precision Mouse,Accessories,Northeast,3,55.92,167.76
+ORD-2601-00314,2026-01-24,C-0075,Desk Organizer,Stationery,Southeast,1,35.11,35.11
+ORD-2510-00315,2025-10-22,C-0132,Felt Pen Pack,Stationery,Southwest,1,14.95,14.95
+ORD-2508-00316,2025-08-08,C-0140,Task Lamp Mini,Lighting,Northeast,1,44.91,44.91
+ORD-2509-00317,2025-09-03,C-0327,Studio Desk,Furniture,Southeast,1,427.11,427.11
+ORD-2504-00318,2025-04-13,C-0071,Oak Side Table,Furniture,Northeast,2,129.18,258.36
+ORD-2506-00319,2025-06-11,C-0245,Oak Side Table,Furniture,Southwest,3,146.36,439.08
+ORD-2510-00320,2025-10-22,C-0046,Form Task Chair,Furniture,Southwest,1,307.86,307.86
+ORD-2508-00321,2025-08-26,C-0090,Precision Mouse,Accessories,Southeast,2,57.77,115.54
+ORD-2506-00322,2025-06-30,C-0254,Felt Pen Pack,Stationery,Northeast,1,14.75,14.75
+ORD-2510-00323,2025-10-24,C-0055,Desk Organizer,Stationery,West,1,36.39,36.39
+ORD-2512-00324,2025-12-10,C-0253,Form Task Chair,Furniture,West,4,291.00,1164.00
+ORD-2505-00325,2025-05-18,C-0058,Desk Organizer,Stationery,Southeast,1,34.23,34.23
+ORD-2604-00326,2026-04-15,C-0173,Canvas Tote,Accessories,West,2,22.13,44.26
+ORD-2507-00327,2025-07-17,C-0219,Task Lamp Mini,Lighting,Midwest,2,44.67,89.34
+ORD-2503-00328,2025-03-30,C-0245,Oak Side Table,Furniture,Southeast,1,148.64,148.64
+ORD-2509-00329,2025-09-12,C-0137,Arc Desk Lamp,Lighting,West,1,77.34,77.34
+ORD-2511-00330,2025-11-06,C-0185,Precision Mouse,Accessories,Southwest,1,51.94,51.94
+ORD-2503-00331,2025-03-05,C-0258,Canvas Tote,Accessories,West,1,22.69,22.69
+ORD-2511-00332,2025-11-15,C-0189,Canvas Tote,Accessories,Southwest,1,25.69,25.69
+ORD-2508-00333,2025-08-13,C-0311,Felt Pen Pack,Stationery,Southeast,1,13.90,13.90
+ORD-2604-00334,2026-04-28,C-0127,Notebook Set,Stationery,Southwest,2,18.94,37.88
+ORD-2503-00335,2025-03-25,C-0289,Precision Mouse,Accessories,Northeast,1,52.81,52.81
+ORD-2606-00336,2026-06-02,C-0267,Task Lamp Mini,Lighting,Midwest,1,39.75,39.75
+ORD-2507-00337,2025-07-30,C-0229,Notebook Set,Stationery,West,1,19.15,19.15
+ORD-2604-00338,2026-04-10,C-0287,Halo Floor Lamp,Lighting,Midwest,1,165.68,165.68
+ORD-2511-00339,2025-11-12,C-0112,Notebook Set,Stationery,Midwest,1,18.91,18.91
+ORD-2502-00340,2025-02-16,C-0031,Wireless Keyboard,Accessories,West,2,89.59,179.18
+ORD-2503-00341,2025-03-12,C-0093,Felt Pen Pack,Stationery,Southwest,1,13.52,13.52
+ORD-2603-00342,2026-03-07,C-0194,Oak Side Table,Furniture,Southeast,2,136.86,273.72
+ORD-2505-00343,2025-05-17,C-0276,Canvas Tote,Accessories,Southeast,1,22.77,22.77
+ORD-2505-00344,2025-05-11,C-0012,Notebook Set,Stationery,West,1,16.57,16.57
+ORD-2604-00345,2026-04-20,C-0118,Canvas Tote,Accessories,Southeast,1,24.12,24.12
+ORD-2512-00346,2025-12-21,C-0058,Task Lamp Mini,Lighting,Northeast,1,44.52,44.52
+ORD-2603-00347,2026-03-06,C-0124,Canvas Tote,Accessories,Southeast,3,25.49,76.47
+ORD-2504-00348,2025-04-14,C-0025,Precision Mouse,Accessories,Southeast,1,55.49,55.49
+ORD-2502-00349,2025-02-15,C-0029,Oak Side Table,Furniture,Northeast,1,131.76,131.76
+ORD-2510-00350,2025-10-24,C-0296,Studio Desk,Furniture,Midwest,2,430.18,860.36
+ORD-2511-00351,2025-11-25,C-0267,Studio Desk,Furniture,Southeast,2,458.03,916.06
+ORD-2511-00352,2025-11-04,C-0090,Studio Desk,Furniture,Southwest,1,431.23,431.23
+ORD-2603-00353,2026-03-14,C-0330,Precision Mouse,Accessories,Southwest,1,52.66,52.66
+ORD-2606-00354,2026-06-22,C-0193,Form Task Chair,Furniture,Northeast,1,272.78,272.78
+ORD-2604-00355,2026-04-30,C-0074,Studio Desk,Furniture,West,1,449.31,449.31
+ORD-2503-00356,2025-03-01,C-0069,Precision Mouse,Accessories,Southeast,3,54.49,163.47
+ORD-2509-00357,2025-09-19,C-0190,Task Lamp Mini,Lighting,Northeast,1,44.84,44.84
+ORD-2507-00358,2025-07-15,C-0021,Arc Desk Lamp,Lighting,West,1,79.31,79.31
+ORD-2507-00359,2025-07-12,C-0112,Notebook Set,Stationery,Midwest,1,18.49,18.49
+ORD-2512-00360,2025-12-07,C-0098,Form Task Chair,Furniture,West,2,275.67,551.34
+ORD-2505-00361,2025-05-01,C-0310,Notebook Set,Stationery,Southwest,2,19.19,38.38
+ORD-2602-00362,2026-02-11,C-0195,Desk Organizer,Stationery,Midwest,1,37.59,37.59
+ORD-2601-00363,2026-01-03,C-0239,Form Task Chair,Furniture,Northeast,1,306.70,306.70
+ORD-2604-00364,2026-04-26,C-0161,Notebook Set,Stationery,Southeast,1,17.15,17.15
+ORD-2508-00365,2025-08-15,C-0300,Notebook Set,Stationery,Midwest,1,18.15,18.15
+ORD-2603-00366,2026-03-04,C-0292,Form Task Chair,Furniture,West,1,276.52,276.52
+ORD-2605-00367,2026-05-27,C-0251,Precision Mouse,Accessories,West,3,52.60,157.80
+ORD-2605-00368,2026-05-18,C-0072,Wireless Keyboard,Accessories,Southwest,2,86.89,173.78
+ORD-2605-00369,2026-05-16,C-0031,Task Lamp Mini,Lighting,Midwest,2,45.29,90.58
+ORD-2503-00370,2025-03-18,C-0212,Felt Pen Pack,Stationery,Northeast,1,14.59,14.59
+ORD-2508-00371,2025-08-25,C-0234,Arc Desk Lamp,Lighting,Southeast,1,74.49,74.49
+ORD-2605-00372,2026-05-10,C-0211,Canvas Tote,Accessories,Northeast,1,24.12,24.12
+ORD-2606-00373,2026-06-27,C-0258,Notebook Set,Stationery,West,1,17.39,17.39
+ORD-2603-00374,2026-03-17,C-0050,Notebook Set,Stationery,Midwest,2,16.87,33.74
+ORD-2509-00375,2025-09-04,C-0137,Task Lamp Mini,Lighting,West,1,44.12,44.12
+ORD-2503-00376,2025-03-22,C-0116,Oak Side Table,Furniture,Southeast,1,139.44,139.44
+ORD-2503-00377,2025-03-24,C-0048,Canvas Tote,Accessories,Southeast,2,25.00,50.00
+ORD-2601-00378,2026-01-22,C-0088,Precision Mouse,Accessories,Northeast,1,49.76,49.76
+ORD-2603-00379,2026-03-21,C-0049,Canvas Tote,Accessories,West,1,25.83,25.83
+ORD-2502-00380,2025-02-13,C-0291,Studio Desk,Furniture,Midwest,2,438.08,876.16
+ORD-2502-00381,2025-02-17,C-0279,Felt Pen Pack,Stationery,Midwest,1,13.51,13.51
+ORD-2502-00382,2025-02-03,C-0107,Task Lamp Mini,Lighting,Midwest,2,38.75,77.50
+ORD-2602-00383,2026-02-12,C-0291,Felt Pen Pack,Stationery,West,1,14.14,14.14
+ORD-2602-00384,2026-02-03,C-0072,Canvas Tote,Accessories,West,1,23.55,23.55
+ORD-2503-00385,2025-03-22,C-0224,Wireless Keyboard,Accessories,Southeast,3,82.64,247.92
+ORD-2503-00386,2025-03-19,C-0204,Form Task Chair,Furniture,West,2,310.03,620.06
+ORD-2512-00387,2025-12-01,C-0252,Arc Desk Lamp,Lighting,Southeast,1,84.15,84.15
+ORD-2601-00388,2026-01-20,C-0044,Wireless Keyboard,Accessories,West,1,91.29,91.29
+ORD-2510-00389,2025-10-30,C-0079,Notebook Set,Stationery,Southeast,2,16.80,33.60
+ORD-2506-00390,2025-06-07,C-0003,Notebook Set,Stationery,West,1,16.87,16.87
+ORD-2604-00391,2026-04-01,C-0096,Form Task Chair,Furniture,Midwest,1,272.01,272.01
+ORD-2606-00392,2026-06-09,C-0048,Oak Side Table,Furniture,Midwest,1,134.77,134.77
+ORD-2511-00393,2025-11-29,C-0044,Desk Organizer,Stationery,Southwest,1,35.50,35.50
+ORD-2509-00394,2025-09-06,C-0072,Precision Mouse,Accessories,Southeast,1,52.97,52.97
+ORD-2510-00395,2025-10-02,C-0216,Wireless Keyboard,Accessories,Southeast,1,88.07,88.07
+ORD-2503-00396,2025-03-20,C-0254,Form Task Chair,Furniture,Midwest,3,299.21,897.63
+ORD-2507-00397,2025-07-20,C-0203,Wireless Keyboard,Accessories,Southeast,1,81.98,81.98
+ORD-2601-00398,2026-01-25,C-0334,Notebook Set,Stationery,West,1,17.52,17.52
+ORD-2505-00399,2025-05-20,C-0246,Form Task Chair,Furniture,Southeast,1,298.03,298.03
+ORD-2602-00400,2026-02-12,C-0252,Felt Pen Pack,Stationery,West,1,14.44,14.44
+ORD-2509-00401,2025-09-06,C-0187,Form Task Chair,Furniture,Northeast,1,302.22,302.22
+ORD-2507-00402,2025-07-24,C-0282,Precision Mouse,Accessories,Northeast,1,55.57,55.57
+ORD-2604-00403,2026-04-18,C-0036,Felt Pen Pack,Stationery,West,1,14.67,14.67
+ORD-2602-00404,2026-02-23,C-0130,Canvas Tote,Accessories,Southwest,1,23.24,23.24
+ORD-2603-00405,2026-03-10,C-0246,Notebook Set,Stationery,Midwest,1,19.41,19.41
+ORD-2606-00406,2026-06-03,C-0019,Felt Pen Pack,Stationery,West,2,13.82,27.64
+ORD-2601-00407,2026-01-04,C-0044,Canvas Tote,Accessories,Northeast,2,24.36,48.72
+ORD-2509-00408,2025-09-12,C-0023,Canvas Tote,Accessories,Midwest,1,24.56,24.56
+ORD-2602-00409,2026-02-14,C-0055,Felt Pen Pack,Stationery,Northeast,1,14.66,14.66
+ORD-2509-00410,2025-09-22,C-0295,Studio Desk,Furniture,Southeast,2,428.94,857.88
+ORD-2601-00411,2026-01-19,C-0257,Oak Side Table,Furniture,Northeast,2,139.96,279.92
+ORD-2501-00412,2025-01-26,C-0044,Wireless Keyboard,Accessories,Northeast,1,94.99,94.99
+ORD-2505-00413,2025-05-26,C-0267,Form Task Chair,Furniture,Midwest,1,302.14,302.14
+ORD-2605-00414,2026-05-03,C-0035,Halo Floor Lamp,Lighting,Southeast,2,162.75,325.50
+ORD-2504-00415,2025-04-28,C-0085,Arc Desk Lamp,Lighting,West,1,73.12,73.12
+ORD-2509-00416,2025-09-07,C-0219,Precision Mouse,Accessories,West,1,52.54,52.54
+ORD-2508-00417,2025-08-26,C-0222,Notebook Set,Stationery,Southeast,1,17.10,17.10
+ORD-2507-00418,2025-07-22,C-0110,Wireless Keyboard,Accessories,Southeast,1,81.94,81.94
+ORD-2503-00419,2025-03-06,C-0188,Precision Mouse,Accessories,Southeast,2,54.32,108.64
+ORD-2604-00420,2026-04-14,C-0328,Halo Floor Lamp,Lighting,Southeast,1,163.72,163.72
+ORD-2602-00421,2026-02-02,C-0235,Precision Mouse,Accessories,Southwest,1,52.69,52.69
+ORD-2511-00422,2025-11-01,C-0161,Felt Pen Pack,Stationery,Northeast,1,14.39,14.39
+ORD-2511-00423,2025-11-09,C-0199,Halo Floor Lamp,Lighting,Southeast,1,154.59,154.59
+ORD-2505-00424,2025-05-22,C-0276,Precision Mouse,Accessories,Southwest,1,53.88,53.88
+ORD-2506-00425,2025-06-27,C-0162,Precision Mouse,Accessories,West,1,50.89,50.89
+ORD-2502-00426,2025-02-24,C-0100,Desk Organizer,Stationery,West,3,35.91,107.73
+ORD-2606-00427,2026-06-02,C-0228,Canvas Tote,Accessories,Midwest,1,23.97,23.97
+ORD-2503-00428,2025-03-26,C-0017,Precision Mouse,Accessories,Southeast,2,51.59,103.18
+ORD-2510-00429,2025-10-23,C-0254,Task Lamp Mini,Lighting,Midwest,1,43.63,43.63
+ORD-2504-00430,2025-04-26,C-0188,Precision Mouse,Accessories,Midwest,1,54.37,54.37
+ORD-2502-00431,2025-02-12,C-0218,Notebook Set,Stationery,Northeast,1,17.19,17.19
+ORD-2509-00432,2025-09-11,C-0179,Form Task Chair,Furniture,West,4,286.68,1146.72
+ORD-2503-00433,2025-03-31,C-0122,Wireless Keyboard,Accessories,Southeast,4,92.92,371.68
+ORD-2512-00434,2025-12-26,C-0316,Desk Organizer,Stationery,Northeast,1,35.59,35.59
+ORD-2507-00435,2025-07-31,C-0273,Notebook Set,Stationery,Southeast,2,18.20,36.40
+ORD-2506-00436,2025-06-22,C-0137,Form Task Chair,Furniture,West,2,279.26,558.52
+ORD-2606-00437,2026-06-11,C-0211,Felt Pen Pack,Stationery,West,1,13.09,13.09
+ORD-2510-00438,2025-10-11,C-0128,Desk Organizer,Stationery,Northeast,1,38.11,38.11
+ORD-2511-00439,2025-11-26,C-0251,Notebook Set,Stationery,Northeast,2,18.51,37.02
+ORD-2510-00440,2025-10-03,C-0048,Canvas Tote,Accessories,Southeast,1,22.37,22.37
+ORD-2510-00441,2025-10-12,C-0250,Canvas Tote,Accessories,Southeast,2,23.83,47.66
+ORD-2501-00442,2025-01-03,C-0235,Desk Organizer,Stationery,Southwest,2,33.66,67.32
+ORD-2601-00443,2026-01-02,C-0220,Desk Organizer,Stationery,West,2,35.41,70.82
+ORD-2605-00444,2026-05-22,C-0296,Studio Desk,Furniture,Northeast,2,413.97,827.94
+ORD-2605-00445,2026-05-12,C-0024,Notebook Set,Stationery,Northeast,2,18.76,37.52
+ORD-2604-00446,2026-04-16,C-0234,Arc Desk Lamp,Lighting,Northeast,3,73.73,221.19
+ORD-2603-00447,2026-03-15,C-0333,Task Lamp Mini,Lighting,Southeast,1,39.53,39.53
+ORD-2510-00448,2025-10-08,C-0333,Halo Floor Lamp,Lighting,Northeast,1,153.04,153.04
+ORD-2602-00449,2026-02-10,C-0220,Canvas Tote,Accessories,Southwest,2,24.98,49.96
+ORD-2504-00450,2025-04-08,C-0116,Arc Desk Lamp,Lighting,Midwest,1,73.42,73.42
+ORD-2604-00451,2026-04-01,C-0217,Arc Desk Lamp,Lighting,Southwest,1,81.96,81.96
+ORD-2605-00452,2026-05-05,C-0053,Arc Desk Lamp,Lighting,Northeast,1,80.88,80.88
+ORD-2601-00453,2026-01-12,C-0069,Desk Organizer,Stationery,Southwest,1,37.58,37.58
+ORD-2505-00454,2025-05-27,C-0085,Arc Desk Lamp,Lighting,Midwest,1,79.38,79.38
+ORD-2508-00455,2025-08-07,C-0227,Canvas Tote,Accessories,West,1,23.66,23.66
+ORD-2503-00456,2025-03-30,C-0197,Desk Organizer,Stationery,Southeast,1,33.83,33.83
+ORD-2603-00457,2026-03-16,C-0044,Form Task Chair,Furniture,Southeast,1,278.69,278.69
+ORD-2510-00458,2025-10-19,C-0155,Notebook Set,Stationery,Southeast,1,19.00,19.00
+ORD-2606-00459,2026-06-06,C-0123,Task Lamp Mini,Lighting,Midwest,1,42.98,42.98
+ORD-2504-00460,2025-04-26,C-0007,Studio Desk,Furniture,West,1,395.83,395.83
+ORD-2511-00461,2025-11-21,C-0188,Halo Floor Lamp,Lighting,Midwest,2,165.79,331.58
+ORD-2506-00462,2025-06-26,C-0009,Notebook Set,Stationery,Midwest,3,18.78,56.34
+ORD-2501-00463,2025-01-15,C-0204,Studio Desk,Furniture,Midwest,1,395.11,395.11
+ORD-2605-00464,2026-05-29,C-0328,Notebook Set,Stationery,Midwest,1,17.72,17.72
+ORD-2506-00465,2025-06-06,C-0105,Studio Desk,Furniture,West,1,425.77,425.77
+ORD-2506-00466,2025-06-09,C-0333,Precision Mouse,Accessories,Southwest,1,55.16,55.16
+ORD-2503-00467,2025-03-09,C-0123,Form Task Chair,Furniture,Northeast,1,309.97,309.97
+ORD-2503-00468,2025-03-30,C-0029,Felt Pen Pack,Stationery,Southeast,1,14.25,14.25
+ORD-2506-00469,2025-06-29,C-0084,Halo Floor Lamp,Lighting,Midwest,2,169.29,338.58
+ORD-2512-00470,2025-12-22,C-0086,Precision Mouse,Accessories,Southeast,2,55.91,111.82
+ORD-2510-00471,2025-10-03,C-0172,Notebook Set,Stationery,West,1,19.15,19.15
+ORD-2510-00472,2025-10-06,C-0322,Precision Mouse,Accessories,Northeast,1,58.10,58.10
+ORD-2604-00473,2026-04-12,C-0086,Wireless Keyboard,Accessories,Southeast,1,94.12,94.12
+ORD-2509-00474,2025-09-19,C-0060,Notebook Set,Stationery,Southeast,2,18.50,37.00
+ORD-2606-00475,2026-06-06,C-0024,Arc Desk Lamp,Lighting,Midwest,2,71.91,143.82
+ORD-2601-00476,2026-01-28,C-0019,Felt Pen Pack,Stationery,Midwest,1,15.03,15.03
+ORD-2603-00477,2026-03-06,C-0164,Studio Desk,Furniture,Southeast,1,453.28,453.28
+ORD-2503-00478,2025-03-21,C-0027,Precision Mouse,Accessories,Northeast,1,55.50,55.50
+ORD-2606-00479,2026-06-13,C-0239,Felt Pen Pack,Stationery,West,3,13.03,39.09
+ORD-2511-00480,2025-11-15,C-0103,Form Task Chair,Furniture,Southeast,1,266.25,266.25
+ORD-2511-00481,2025-11-08,C-0253,Notebook Set,Stationery,West,1,17.62,17.62
+ORD-2507-00482,2025-07-20,C-0078,Notebook Set,Stationery,Northeast,1,18.85,18.85
+ORD-2602-00483,2026-02-24,C-0005,Arc Desk Lamp,Lighting,West,1,79.70,79.70
+ORD-2501-00484,2025-01-02,C-0158,Notebook Set,Stationery,Northeast,1,18.69,18.69
+ORD-2606-00485,2026-06-27,C-0073,Felt Pen Pack,Stationery,Southwest,1,15.03,15.03
+ORD-2504-00486,2025-04-06,C-0212,Arc Desk Lamp,Lighting,Southwest,1,82.31,82.31
+ORD-2601-00487,2026-01-17,C-0259,Wireless Keyboard,Accessories,Northeast,2,90.15,180.30
+ORD-2602-00488,2026-02-08,C-0067,Halo Floor Lamp,Lighting,Southeast,1,162.29,162.29
+ORD-2509-00489,2025-09-25,C-0168,Desk Organizer,Stationery,Southeast,3,35.38,106.14
+ORD-2510-00490,2025-10-06,C-0300,Studio Desk,Furniture,Northeast,3,400.26,1200.78
+ORD-2504-00491,2025-04-19,C-0275,Task Lamp Mini,Lighting,Southeast,1,41.37,41.37
+ORD-2508-00492,2025-08-01,C-0047,Wireless Keyboard,Accessories,Northeast,1,94.02,94.02
+ORD-2511-00493,2025-11-08,C-0168,Notebook Set,Stationery,Northeast,1,16.68,16.68
+ORD-2509-00494,2025-09-12,C-0154,Felt Pen Pack,Stationery,Southeast,1,12.99,12.99
+ORD-2506-00495,2025-06-28,C-0282,Arc Desk Lamp,Lighting,Southeast,1,77.40,77.40
+ORD-2604-00496,2026-04-19,C-0032,Halo Floor Lamp,Lighting,West,2,154.07,308.14
+ORD-2508-00497,2025-08-16,C-0323,Halo Floor Lamp,Lighting,West,2,160.65,321.30
+ORD-2503-00498,2025-03-28,C-0012,Precision Mouse,Accessories,West,1,56.70,56.70
+ORD-2507-00499,2025-07-22,C-0170,Desk Organizer,Stationery,Northeast,1,33.86,33.86
+ORD-2604-00500,2026-04-18,C-0203,Arc Desk Lamp,Lighting,Midwest,3,77.17,231.51
+ORD-2601-00501,2026-01-27,C-0096,Canvas Tote,Accessories,Southeast,1,22.90,22.90
+ORD-2604-00502,2026-04-02,C-0126,Desk Organizer,Stationery,Southwest,1,36.69,36.69
+ORD-2605-00503,2026-05-26,C-0144,Oak Side Table,Furniture,Southeast,1,128.31,128.31
+ORD-2603-00504,2026-03-06,C-0323,Task Lamp Mini,Lighting,West,2,42.17,84.34
+ORD-2501-00505,2025-01-20,C-0279,Felt Pen Pack,Stationery,West,2,13.68,27.36
+ORD-2512-00506,2025-12-19,C-0093,Desk Organizer,Stationery,Northeast,1,35.36,35.36
+ORD-2508-00507,2025-08-13,C-0242,Arc Desk Lamp,Lighting,Midwest,2,75.27,150.54
+ORD-2508-00508,2025-08-27,C-0137,Felt Pen Pack,Stationery,Midwest,1,14.35,14.35
+ORD-2502-00509,2025-02-27,C-0199,Notebook Set,Stationery,Southeast,3,18.22,54.66
+ORD-2506-00510,2025-06-27,C-0184,Task Lamp Mini,Lighting,West,1,44.06,44.06
+ORD-2501-00511,2025-01-29,C-0073,Canvas Tote,Accessories,Midwest,1,24.26,24.26
+ORD-2507-00512,2025-07-12,C-0278,Desk Organizer,Stationery,Southeast,2,38.71,77.42
+ORD-2605-00513,2026-05-18,C-0011,Arc Desk Lamp,Lighting,Midwest,1,79.27,79.27
+ORD-2501-00514,2025-01-01,C-0175,Form Task Chair,Furniture,Southwest,1,303.17,303.17
+ORD-2511-00515,2025-11-28,C-0073,Arc Desk Lamp,Lighting,West,1,80.55,80.55
+ORD-2606-00516,2026-06-23,C-0203,Desk Organizer,Stationery,Midwest,3,35.27,105.81
+ORD-2512-00517,2025-12-11,C-0224,Form Task Chair,Furniture,West,1,273.16,273.16
+ORD-2605-00518,2026-05-14,C-0315,Canvas Tote,Accessories,West,1,25.80,25.80
+ORD-2508-00519,2025-08-17,C-0151,Canvas Tote,Accessories,Northeast,2,23.53,47.06
+ORD-2501-00520,2025-01-02,C-0291,Felt Pen Pack,Stationery,Northeast,3,13.76,41.28
+ORD-2511-00521,2025-11-22,C-0290,Felt Pen Pack,Stationery,Northeast,3,13.37,40.11
+ORD-2605-00522,2026-05-24,C-0164,Halo Floor Lamp,Lighting,Northeast,2,157.13,314.26
+ORD-2504-00523,2025-04-01,C-0172,Notebook Set,Stationery,Midwest,1,18.66,18.66
+ORD-2509-00524,2025-09-29,C-0056,Task Lamp Mini,Lighting,Southwest,1,41.00,41.00
+ORD-2502-00525,2025-02-19,C-0212,Oak Side Table,Furniture,Midwest,2,148.36,296.72
+ORD-2601-00526,2026-01-23,C-0296,Form Task Chair,Furniture,Southwest,1,304.20,304.20
+ORD-2508-00527,2025-08-19,C-0151,Task Lamp Mini,Lighting,Northeast,1,44.32,44.32
+ORD-2509-00528,2025-09-25,C-0193,Felt Pen Pack,Stationery,Northeast,1,13.26,13.26
+ORD-2503-00529,2025-03-18,C-0305,Precision Mouse,Accessories,West,2,50.48,100.96
+ORD-2605-00530,2026-05-10,C-0311,Canvas Tote,Accessories,West,1,24.59,24.59
+ORD-2506-00531,2025-06-10,C-0210,Arc Desk Lamp,Lighting,Southwest,1,83.92,83.92
+ORD-2509-00532,2025-09-29,C-0202,Canvas Tote,Accessories,Midwest,1,22.45,22.45
+ORD-2605-00533,2026-05-18,C-0151,Halo Floor Lamp,Lighting,West,1,162.10,162.10
+ORD-2605-00534,2026-05-07,C-0150,Task Lamp Mini,Lighting,West,1,39.79,39.79
+ORD-2604-00535,2026-04-30,C-0251,Desk Organizer,Stationery,West,1,35.41,35.41
+ORD-2509-00536,2025-09-29,C-0196,Halo Floor Lamp,Lighting,Southeast,1,155.73,155.73
+ORD-2604-00537,2026-04-02,C-0138,Arc Desk Lamp,Lighting,Midwest,1,75.05,75.05
+ORD-2506-00538,2025-06-04,C-0177,Notebook Set,Stationery,West,1,16.81,16.81
+ORD-2602-00539,2026-02-28,C-0199,Felt Pen Pack,Stationery,West,1,14.12,14.12
+ORD-2603-00540,2026-03-05,C-0294,Felt Pen Pack,Stationery,West,1,14.98,14.98
+ORD-2605-00541,2026-05-03,C-0018,Form Task Chair,Furniture,Midwest,1,305.37,305.37
+ORD-2606-00542,2026-06-14,C-0062,Notebook Set,Stationery,West,1,18.35,18.35
+ORD-2604-00543,2026-04-05,C-0099,Task Lamp Mini,Lighting,Northeast,4,45.17,180.68
+ORD-2603-00544,2026-03-10,C-0322,Halo Floor Lamp,Lighting,Northeast,1,156.18,156.18
+ORD-2509-00545,2025-09-22,C-0045,Form Task Chair,Furniture,Southeast,2,303.21,606.42
+ORD-2602-00546,2026-02-11,C-0007,Precision Mouse,Accessories,West,2,54.17,108.34
+ORD-2606-00547,2026-06-20,C-0291,Notebook Set,Stationery,Midwest,1,16.99,16.99
+ORD-2504-00548,2025-04-13,C-0147,Felt Pen Pack,Stationery,West,1,13.11,13.11
+ORD-2512-00549,2025-12-19,C-0293,Desk Organizer,Stationery,Southwest,1,36.89,36.89
+ORD-2502-00550,2025-02-08,C-0206,Task Lamp Mini,Lighting,Northeast,1,42.79,42.79
+ORD-2512-00551,2025-12-06,C-0138,Canvas Tote,Accessories,West,1,23.90,23.90
+ORD-2501-00552,2025-01-21,C-0252,Form Task Chair,Furniture,West,2,280.26,560.52
+ORD-2504-00553,2025-04-11,C-0227,Felt Pen Pack,Stationery,West,1,13.55,13.55
+ORD-2511-00554,2025-11-25,C-0097,Studio Desk,Furniture,Midwest,1,434.90,434.90
+ORD-2602-00555,2026-02-21,C-0029,Notebook Set,Stationery,Midwest,2,19.06,38.12
+ORD-2506-00556,2025-06-12,C-0269,Arc Desk Lamp,Lighting,West,2,76.79,153.58
+ORD-2501-00557,2025-01-30,C-0030,Task Lamp Mini,Lighting,Southeast,2,39.99,79.98
+ORD-2604-00558,2026-04-13,C-0189,Arc Desk Lamp,Lighting,West,1,74.24,74.24
+ORD-2606-00559,2026-06-02,C-0124,Oak Side Table,Furniture,Southeast,3,142.00,426.00
+ORD-2604-00560,2026-04-02,C-0180,Task Lamp Mini,Lighting,Southeast,2,42.58,85.16
+ORD-2509-00561,2025-09-22,C-0198,Notebook Set,Stationery,Northeast,1,17.38,17.38
+ORD-2508-00562,2025-08-08,C-0138,Desk Organizer,Stationery,Southwest,1,37.02,37.02
+ORD-2606-00563,2026-06-10,C-0005,Arc Desk Lamp,Lighting,Midwest,2,81.34,162.68
+ORD-2505-00564,2025-05-16,C-0130,Canvas Tote,Accessories,Southwest,1,22.11,22.11
+ORD-2511-00565,2025-11-09,C-0193,Canvas Tote,Accessories,West,2,23.14,46.28
+ORD-2604-00566,2026-04-16,C-0320,Studio Desk,Furniture,Southeast,1,437.05,437.05
+ORD-2504-00567,2025-04-15,C-0192,Arc Desk Lamp,Lighting,Midwest,4,83.82,335.28
+ORD-2510-00568,2025-10-17,C-0142,Form Task Chair,Furniture,Southwest,1,268.83,268.83
+ORD-2510-00569,2025-10-11,C-0153,Studio Desk,Furniture,Northeast,2,451.68,903.36
+ORD-2606-00570,2026-06-14,C-0308,Notebook Set,Stationery,Southeast,2,18.88,37.76
+ORD-2511-00571,2025-11-24,C-0152,Canvas Tote,Accessories,Southeast,2,24.60,49.20
+ORD-2603-00572,2026-03-05,C-0293,Oak Side Table,Furniture,West,2,139.83,279.66
+ORD-2512-00573,2025-12-18,C-0244,Notebook Set,Stationery,West,1,18.10,18.10
+ORD-2601-00574,2026-01-03,C-0286,Wireless Keyboard,Accessories,Northeast,2,93.85,187.70
+ORD-2504-00575,2025-04-10,C-0287,Wireless Keyboard,Accessories,Southwest,2,92.21,184.42
+ORD-2507-00576,2025-07-07,C-0114,Felt Pen Pack,Stationery,Southeast,2,14.35,28.70
+ORD-2511-00577,2025-11-11,C-0300,Oak Side Table,Furniture,Southeast,2,135.17,270.34
+ORD-2505-00578,2025-05-01,C-0318,Wireless Keyboard,Accessories,Northeast,2,90.19,180.38
+ORD-2507-00579,2025-07-19,C-0153,Wireless Keyboard,Accessories,Southeast,2,87.31,174.62
+ORD-2506-00580,2025-06-04,C-0292,Halo Floor Lamp,Lighting,West,1,161.62,161.62
+ORD-2604-00581,2026-04-14,C-0042,Halo Floor Lamp,Lighting,Midwest,2,155.61,311.22
+ORD-2507-00582,2025-07-01,C-0108,Form Task Chair,Furniture,Southwest,1,286.78,286.78
+ORD-2506-00583,2025-06-22,C-0046,Precision Mouse,Accessories,Northeast,1,56.46,56.46
+ORD-2603-00584,2026-03-21,C-0197,Canvas Tote,Accessories,Northeast,1,25.79,25.79
+ORD-2507-00585,2025-07-24,C-0272,Notebook Set,Stationery,Northeast,3,19.13,57.39
+ORD-2501-00586,2025-01-05,C-0177,Canvas Tote,Accessories,Southeast,1,24.74,24.74
+ORD-2504-00587,2025-04-16,C-0024,Oak Side Table,Furniture,Southeast,1,130.65,130.65
+ORD-2510-00588,2025-10-25,C-0223,Wireless Keyboard,Accessories,West,1,89.34,89.34
+ORD-2505-00589,2025-05-18,C-0097,Form Task Chair,Furniture,Northeast,2,282.49,564.98
+ORD-2602-00590,2026-02-18,C-0109,Arc Desk Lamp,Lighting,Southwest,1,84.05,84.05
+ORD-2606-00591,2026-06-01,C-0020,Task Lamp Mini,Lighting,Southeast,1,43.01,43.01
+ORD-2509-00592,2025-09-19,C-0025,Notebook Set,Stationery,Southwest,1,18.27,18.27
+ORD-2501-00593,2025-01-21,C-0064,Arc Desk Lamp,Lighting,Midwest,1,77.31,77.31
+ORD-2605-00594,2026-05-01,C-0005,Canvas Tote,Accessories,Southeast,1,24.71,24.71
+ORD-2504-00595,2025-04-14,C-0071,Canvas Tote,Accessories,Southeast,1,24.41,24.41
+ORD-2504-00596,2025-04-18,C-0055,Wireless Keyboard,Accessories,Midwest,1,85.91,85.91
+ORD-2507-00597,2025-07-24,C-0184,Notebook Set,Stationery,Southwest,2,19.36,38.72
+ORD-2510-00598,2025-10-30,C-0247,Task Lamp Mini,Lighting,Southeast,1,44.76,44.76
+ORD-2501-00599,2025-01-03,C-0294,Arc Desk Lamp,Lighting,Southwest,1,73.14,73.14
+ORD-2506-00600,2025-06-02,C-0052,Felt Pen Pack,Stationery,West,2,13.05,26.10
+ORD-2508-00601,2025-08-25,C-0026,Wireless Keyboard,Accessories,Northeast,3,85.64,256.92
+ORD-2506-00602,2025-06-28,C-0161,Desk Organizer,Stationery,Midwest,2,35.19,70.38
+ORD-2504-00603,2025-04-29,C-0071,Halo Floor Lamp,Lighting,Southwest,2,152.08,304.16
+ORD-2506-00604,2025-06-24,C-0138,Form Task Chair,Furniture,West,2,310.04,620.08
+ORD-2504-00605,2025-04-06,C-0205,Oak Side Table,Furniture,West,1,129.47,129.47
+ORD-2510-00606,2025-10-06,C-0216,Desk Organizer,Stationery,Southwest,1,35.87,35.87
+ORD-2506-00607,2025-06-20,C-0082,Halo Floor Lamp,Lighting,Northeast,1,152.42,152.42
+ORD-2605-00608,2026-05-10,C-0195,Notebook Set,Stationery,West,1,17.08,17.08
+ORD-2501-00609,2025-01-30,C-0067,Desk Organizer,Stationery,Midwest,2,37.31,74.62
+ORD-2605-00610,2026-05-15,C-0134,Halo Floor Lamp,Lighting,Southwest,1,152.09,152.09
+ORD-2501-00611,2025-01-13,C-0296,Canvas Tote,Accessories,Southwest,1,25.03,25.03
+ORD-2508-00612,2025-08-18,C-0268,Felt Pen Pack,Stationery,Southwest,1,13.64,13.64
+ORD-2504-00613,2025-04-08,C-0329,Wireless Keyboard,Accessories,Southeast,2,88.74,177.48
+ORD-2502-00614,2025-02-25,C-0241,Arc Desk Lamp,Lighting,West,3,78.07,234.21
+ORD-2506-00615,2025-06-19,C-0143,Halo Floor Lamp,Lighting,Northeast,1,157.20,157.20
+ORD-2508-00616,2025-08-17,C-0041,Precision Mouse,Accessories,Midwest,1,56.74,56.74
+ORD-2604-00617,2026-04-04,C-0255,Halo Floor Lamp,Lighting,Southwest,1,159.17,159.17
+ORD-2501-00618,2025-01-19,C-0001,Halo Floor Lamp,Lighting,West,1,165.50,165.50
+ORD-2511-00619,2025-11-08,C-0234,Desk Organizer,Stationery,West,1,36.89,36.89
+ORD-2601-00620,2026-01-08,C-0170,Notebook Set,Stationery,Midwest,2,18.99,37.98
+ORD-2604-00621,2026-04-30,C-0050,Notebook Set,Stationery,Southwest,1,17.86,17.86
+ORD-2508-00622,2025-08-16,C-0150,Arc Desk Lamp,Lighting,Midwest,1,79.67,79.67
+ORD-2601-00623,2026-01-18,C-0072,Canvas Tote,Accessories,West,1,22.71,22.71
+ORD-2602-00624,2026-02-24,C-0202,Halo Floor Lamp,Lighting,Southeast,1,155.80,155.80
+ORD-2507-00625,2025-07-15,C-0325,Notebook Set,Stationery,West,1,17.75,17.75
+ORD-2505-00626,2025-05-07,C-0259,Notebook Set,Stationery,Northeast,1,18.46,18.46
+ORD-2605-00627,2026-05-26,C-0222,Arc Desk Lamp,Lighting,West,2,78.66,157.32
+ORD-2605-00628,2026-05-10,C-0297,Felt Pen Pack,Stationery,Northeast,2,14.92,29.84
+ORD-2505-00629,2025-05-12,C-0165,Halo Floor Lamp,Lighting,Midwest,1,166.79,166.79
+ORD-2601-00630,2026-01-29,C-0128,Oak Side Table,Furniture,Southeast,1,142.25,142.25
+ORD-2512-00631,2025-12-18,C-0212,Felt Pen Pack,Stationery,Midwest,1,13.18,13.18
+ORD-2606-00632,2026-06-09,C-0284,Form Task Chair,Furniture,Southwest,2,305.68,611.36
+ORD-2507-00633,2025-07-25,C-0068,Task Lamp Mini,Lighting,West,2,43.25,86.50
+ORD-2507-00634,2025-07-02,C-0060,Wireless Keyboard,Accessories,Southwest,1,86.47,86.47
+ORD-2605-00635,2026-05-07,C-0274,Precision Mouse,Accessories,Southeast,3,55.82,167.46
+ORD-2603-00636,2026-03-09,C-0075,Notebook Set,Stationery,Northeast,1,16.63,16.63
+ORD-2502-00637,2025-02-27,C-0147,Task Lamp Mini,Lighting,Southwest,2,39.72,79.44
+ORD-2505-00638,2025-05-30,C-0278,Desk Organizer,Stationery,Northeast,1,34.82,34.82
+ORD-2604-00639,2026-04-09,C-0115,Halo Floor Lamp,Lighting,Southwest,2,170.28,340.56
+ORD-2602-00640,2026-02-03,C-0148,Studio Desk,Furniture,Southwest,2,445.32,890.64
+ORD-2502-00641,2025-02-18,C-0161,Felt Pen Pack,Stationery,West,1,15.02,15.02
+ORD-2502-00642,2025-02-25,C-0227,Arc Desk Lamp,Lighting,West,1,79.50,79.50
+ORD-2601-00643,2026-01-12,C-0100,Notebook Set,Stationery,Southeast,1,18.30,18.30
+ORD-2507-00644,2025-07-01,C-0264,Felt Pen Pack,Stationery,Northeast,1,15.04,15.04
+ORD-2502-00645,2025-02-11,C-0300,Wireless Keyboard,Accessories,West,1,83.73,83.73
+ORD-2501-00646,2025-01-06,C-0079,Form Task Chair,Furniture,West,2,273.04,546.08
+ORD-2502-00647,2025-02-22,C-0155,Notebook Set,Stationery,Midwest,1,18.99,18.99
+ORD-2601-00648,2026-01-02,C-0095,Arc Desk Lamp,Lighting,Midwest,2,78.32,156.64
+ORD-2606-00649,2026-06-02,C-0179,Task Lamp Mini,Lighting,Southeast,1,41.35,41.35
+ORD-2508-00650,2025-08-07,C-0317,Canvas Tote,Accessories,Midwest,1,23.21,23.21
+ORD-2501-00651,2025-01-10,C-0329,Halo Floor Lamp,Lighting,Southwest,1,157.19,157.19
+ORD-2509-00652,2025-09-07,C-0059,Felt Pen Pack,Stationery,Southeast,1,13.60,13.60
+ORD-2510-00653,2025-10-17,C-0264,Arc Desk Lamp,Lighting,West,1,81.38,81.38
+ORD-2604-00654,2026-04-02,C-0165,Wireless Keyboard,Accessories,Midwest,1,91.16,91.16
+ORD-2504-00655,2025-04-09,C-0004,Task Lamp Mini,Lighting,Southwest,3,42.26,126.78
+ORD-2508-00656,2025-08-04,C-0218,Canvas Tote,Accessories,West,2,25.40,50.80
+ORD-2507-00657,2025-07-30,C-0223,Precision Mouse,Accessories,Southwest,2,58.11,116.22
+ORD-2503-00658,2025-03-15,C-0170,Notebook Set,Stationery,Northeast,1,17.88,17.88
+ORD-2503-00659,2025-03-17,C-0295,Arc Desk Lamp,Lighting,West,2,78.72,157.44
+ORD-2509-00660,2025-09-22,C-0162,Oak Side Table,Furniture,Northeast,1,135.89,135.89
+ORD-2505-00661,2025-05-02,C-0300,Precision Mouse,Accessories,Northeast,1,55.02,55.02
+ORD-2503-00662,2025-03-16,C-0155,Form Task Chair,Furniture,Southwest,1,279.28,279.28
+ORD-2510-00663,2025-10-16,C-0016,Notebook Set,Stationery,Midwest,1,17.70,17.70
+ORD-2508-00664,2025-08-14,C-0280,Halo Floor Lamp,Lighting,Southeast,1,171.81,171.81
+ORD-2505-00665,2025-05-28,C-0332,Form Task Chair,Furniture,Southeast,2,310.52,621.04
+ORD-2501-00666,2025-01-12,C-0003,Precision Mouse,Accessories,Midwest,1,50.74,50.74
+ORD-2602-00667,2026-02-08,C-0177,Precision Mouse,Accessories,Southeast,3,52.31,156.93
+ORD-2606-00668,2026-06-09,C-0130,Halo Floor Lamp,Lighting,Northeast,1,167.07,167.07
+ORD-2507-00669,2025-07-05,C-0282,Canvas Tote,Accessories,Midwest,1,22.29,22.29
+ORD-2503-00670,2025-03-16,C-0298,Form Task Chair,Furniture,Midwest,1,270.42,270.42
+ORD-2512-00671,2025-12-05,C-0146,Form Task Chair,Furniture,Southwest,1,276.72,276.72
+ORD-2507-00672,2025-07-18,C-0157,Form Task Chair,Furniture,Southwest,1,294.38,294.38
+ORD-2506-00673,2025-06-06,C-0220,Precision Mouse,Accessories,Northeast,1,52.41,52.41
+ORD-2511-00674,2025-11-17,C-0224,Studio Desk,Furniture,Southeast,1,441.31,441.31
+ORD-2601-00675,2026-01-04,C-0237,Halo Floor Lamp,Lighting,Midwest,2,173.92,347.84
+ORD-2511-00676,2025-11-09,C-0042,Wireless Keyboard,Accessories,West,1,91.07,91.07
+ORD-2505-00677,2025-05-24,C-0321,Desk Organizer,Stationery,Northeast,1,37.35,37.35
+ORD-2503-00678,2025-03-19,C-0298,Desk Organizer,Stationery,Midwest,2,36.76,73.52
+ORD-2508-00679,2025-08-06,C-0277,Desk Organizer,Stationery,Midwest,1,36.25,36.25
+ORD-2506-00680,2025-06-02,C-0149,Form Task Chair,Furniture,Northeast,1,301.58,301.58
+ORD-2605-00681,2026-05-29,C-0123,Wireless Keyboard,Accessories,West,1,89.03,89.03
+ORD-2506-00682,2025-06-19,C-0290,Notebook Set,Stationery,West,1,17.02,17.02
+ORD-2505-00683,2025-05-30,C-0113,Notebook Set,Stationery,Southwest,1,17.59,17.59
+ORD-2508-00684,2025-08-26,C-0106,Arc Desk Lamp,Lighting,Midwest,1,72.29,72.29
+ORD-2601-00685,2026-01-05,C-0021,Oak Side Table,Furniture,West,2,146.42,292.84
+ORD-2511-00686,2025-11-28,C-0141,Halo Floor Lamp,Lighting,West,3,167.50,502.50
+ORD-2509-00687,2025-09-27,C-0194,Precision Mouse,Accessories,Southeast,1,52.93,52.93
+ORD-2503-00688,2025-03-21,C-0265,Precision Mouse,Accessories,Southeast,1,57.52,57.52
+ORD-2512-00689,2025-12-20,C-0257,Wireless Keyboard,Accessories,West,1,90.48,90.48
+ORD-2603-00690,2026-03-27,C-0109,Task Lamp Mini,Lighting,Northeast,1,42.96,42.96
+ORD-2506-00691,2025-06-11,C-0118,Form Task Chair,Furniture,Southeast,2,271.35,542.70
+ORD-2512-00692,2025-12-05,C-0108,Notebook Set,Stationery,Midwest,1,17.94,17.94
+ORD-2602-00693,2026-02-25,C-0083,Arc Desk Lamp,Lighting,Northeast,1,78.92,78.92
+ORD-2606-00694,2026-06-09,C-0133,Arc Desk Lamp,Lighting,West,1,72.46,72.46
+ORD-2606-00695,2026-06-14,C-0010,Felt Pen Pack,Stationery,West,1,14.14,14.14
+ORD-2510-00696,2025-10-18,C-0242,Felt Pen Pack,Stationery,West,1,14.24,14.24
+ORD-2506-00697,2025-06-24,C-0299,Task Lamp Mini,Lighting,West,1,39.60,39.60
+ORD-2507-00698,2025-07-06,C-0176,Canvas Tote,Accessories,West,1,22.72,22.72
+ORD-2503-00699,2025-03-12,C-0104,Studio Desk,Furniture,Midwest,1,398.38,398.38
+ORD-2606-00700,2026-06-01,C-0091,Canvas Tote,Accessories,Midwest,2,24.41,48.82
+ORD-2502-00701,2025-02-09,C-0048,Desk Organizer,Stationery,Midwest,1,37.45,37.45
+ORD-2505-00702,2025-05-14,C-0333,Desk Organizer,Stationery,Midwest,1,33.13,33.13
+ORD-2603-00703,2026-03-07,C-0118,Oak Side Table,Furniture,West,1,138.66,138.66
+ORD-2605-00704,2026-05-09,C-0295,Notebook Set,Stationery,Northeast,1,18.26,18.26
+ORD-2505-00705,2025-05-18,C-0043,Studio Desk,Furniture,Southeast,2,452.89,905.78
+ORD-2602-00706,2026-02-23,C-0004,Studio Desk,Furniture,Midwest,1,441.57,441.57
+ORD-2505-00707,2025-05-01,C-0162,Precision Mouse,Accessories,Southeast,1,51.45,51.45
+ORD-2504-00708,2025-04-20,C-0275,Task Lamp Mini,Lighting,Southeast,1,40.34,40.34
+ORD-2601-00709,2026-01-10,C-0105,Precision Mouse,Accessories,Southeast,4,53.11,212.44
+ORD-2605-00710,2026-05-10,C-0158,Task Lamp Mini,Lighting,Midwest,1,41.89,41.89
+ORD-2602-00711,2026-02-12,C-0118,Notebook Set,Stationery,Midwest,2,18.46,36.92
+ORD-2506-00712,2025-06-15,C-0282,Halo Floor Lamp,Lighting,Southwest,1,171.51,171.51
+ORD-2502-00713,2025-02-23,C-0047,Task Lamp Mini,Lighting,West,3,38.68,116.04
+ORD-2604-00714,2026-04-28,C-0114,Felt Pen Pack,Stationery,Southeast,1,13.02,13.02
+ORD-2502-00715,2025-02-08,C-0267,Notebook Set,Stationery,Southeast,3,17.71,53.13
+ORD-2502-00716,2025-02-28,C-0225,Felt Pen Pack,Stationery,Northeast,2,14.31,28.62
+ORD-2606-00717,2026-06-15,C-0265,Form Task Chair,Furniture,Southwest,1,293.60,293.60
+ORD-2506-00718,2025-06-23,C-0081,Canvas Tote,Accessories,Northeast,1,24.60,24.60
+ORD-2510-00719,2025-10-10,C-0301,Notebook Set,Stationery,Northeast,1,17.70,17.70
+ORD-2501-00720,2025-01-16,C-0146,Notebook Set,Stationery,Southwest,1,16.82,16.82
+ORD-2512-00721,2025-12-23,C-0100,Form Task Chair,Furniture,Midwest,2,276.34,552.68
+ORD-2602-00722,2026-02-18,C-0055,Precision Mouse,Accessories,Midwest,1,53.20,53.20
+ORD-2605-00723,2026-05-31,C-0132,Form Task Chair,Furniture,West,3,303.01,909.03
+ORD-2509-00724,2025-09-14,C-0125,Canvas Tote,Accessories,Southwest,3,24.24,72.72
+ORD-2604-00725,2026-04-15,C-0247,Canvas Tote,Accessories,Northeast,2,25.39,50.78
+ORD-2503-00726,2025-03-11,C-0118,Oak Side Table,Furniture,West,2,131.83,263.66
+ORD-2602-00727,2026-02-27,C-0135,Felt Pen Pack,Stationery,Southeast,1,12.90,12.90
+ORD-2504-00728,2025-04-06,C-0284,Oak Side Table,Furniture,West,2,134.51,269.02
+ORD-2605-00729,2026-05-03,C-0094,Form Task Chair,Furniture,West,1,292.41,292.41
+ORD-2507-00730,2025-07-14,C-0136,Wireless Keyboard,Accessories,Southeast,1,92.35,92.35
+ORD-2507-00731,2025-07-27,C-0055,Desk Organizer,Stationery,Northeast,2,35.17,70.34
+ORD-2503-00732,2025-03-22,C-0278,Canvas Tote,Accessories,West,1,24.44,24.44
+ORD-2605-00733,2026-05-09,C-0295,Oak Side Table,Furniture,West,1,146.79,146.79
+ORD-2605-00734,2026-05-18,C-0204,Task Lamp Mini,Lighting,Southeast,2,42.07,84.14
+ORD-2505-00735,2025-05-12,C-0277,Arc Desk Lamp,Lighting,Northeast,2,77.73,155.46
+ORD-2512-00736,2025-12-22,C-0062,Oak Side Table,Furniture,Southwest,1,130.82,130.82
+ORD-2604-00737,2026-04-17,C-0195,Form Task Chair,Furniture,Midwest,1,297.05,297.05
+ORD-2511-00738,2025-11-30,C-0135,Form Task Chair,Furniture,Southeast,2,274.53,549.06
+ORD-2604-00739,2026-04-28,C-0218,Felt Pen Pack,Stationery,Southeast,1,13.29,13.29
+ORD-2601-00740,2026-01-17,C-0293,Form Task Chair,Furniture,Northeast,1,286.72,286.72
+ORD-2508-00741,2025-08-23,C-0285,Notebook Set,Stationery,Midwest,2,18.88,37.76
+ORD-2601-00742,2026-01-26,C-0243,Task Lamp Mini,Lighting,West,2,43.60,87.20
+ORD-2506-00743,2025-06-30,C-0323,Oak Side Table,Furniture,Midwest,1,146.68,146.68
+ORD-2511-00744,2025-11-20,C-0291,Notebook Set,Stationery,Northeast,1,18.18,18.18
+ORD-2504-00745,2025-04-12,C-0244,Canvas Tote,Accessories,West,1,25.21,25.21
+ORD-2504-00746,2025-04-09,C-0287,Wireless Keyboard,Accessories,Midwest,1,87.02,87.02
+ORD-2509-00747,2025-09-21,C-0311,Form Task Chair,Furniture,Northeast,1,282.11,282.11
+ORD-2506-00748,2025-06-28,C-0262,Felt Pen Pack,Stationery,Midwest,1,13.61,13.61
+ORD-2604-00749,2026-04-03,C-0324,Desk Organizer,Stationery,West,1,34.77,34.77
+ORD-2506-00750,2025-06-21,C-0314,Canvas Tote,Accessories,Midwest,3,23.70,71.10
+ORD-2503-00751,2025-03-15,C-0335,Halo Floor Lamp,Lighting,Southeast,1,159.11,159.11
+ORD-2510-00752,2025-10-01,C-0186,Precision Mouse,Accessories,Southwest,1,57.35,57.35
+ORD-2606-00753,2026-06-18,C-0012,Felt Pen Pack,Stationery,Northeast,1,13.29,13.29
+ORD-2508-00754,2025-08-29,C-0041,Canvas Tote,Accessories,Southeast,3,24.77,74.31
+ORD-2602-00755,2026-02-11,C-0281,Halo Floor Lamp,Lighting,Northeast,1,173.94,173.94
+ORD-2602-00756,2026-02-11,C-0317,Precision Mouse,Accessories,Northeast,4,50.58,202.32
+ORD-2602-00757,2026-02-04,C-0321,Form Task Chair,Furniture,Northeast,1,279.02,279.02
+ORD-2606-00758,2026-06-24,C-0167,Desk Organizer,Stationery,West,1,36.94,36.94
+ORD-2604-00759,2026-04-24,C-0228,Felt Pen Pack,Stationery,Northeast,1,13.49,13.49
+ORD-2507-00760,2025-07-01,C-0289,Precision Mouse,Accessories,Midwest,1,56.15,56.15
+ORD-2511-00761,2025-11-14,C-0046,Desk Organizer,Stationery,Midwest,1,34.43,34.43
+ORD-2601-00762,2026-01-10,C-0268,Oak Side Table,Furniture,West,1,127.19,127.19
+ORD-2505-00763,2025-05-20,C-0252,Form Task Chair,Furniture,West,1,266.26,266.26
+ORD-2605-00764,2026-05-04,C-0306,Form Task Chair,Furniture,Southeast,2,302.78,605.56
+ORD-2501-00765,2025-01-08,C-0224,Precision Mouse,Accessories,Southeast,1,57.30,57.30
+ORD-2506-00766,2025-06-17,C-0113,Canvas Tote,Accessories,Southeast,1,25.26,25.26
+ORD-2603-00767,2026-03-09,C-0314,Canvas Tote,Accessories,West,1,25.15,25.15
+ORD-2510-00768,2025-10-06,C-0212,Form Task Chair,Furniture,Northeast,2,303.28,606.56
+ORD-2503-00769,2025-03-12,C-0317,Task Lamp Mini,Lighting,Midwest,1,42.92,42.92
+ORD-2605-00770,2026-05-19,C-0274,Task Lamp Mini,Lighting,Northeast,1,38.97,38.97
+ORD-2504-00771,2025-04-15,C-0005,Form Task Chair,Furniture,Southeast,1,286.15,286.15
+ORD-2506-00772,2025-06-04,C-0256,Arc Desk Lamp,Lighting,West,1,77.00,77.00
+ORD-2604-00773,2026-04-20,C-0075,Canvas Tote,Accessories,Northeast,1,22.39,22.39
+ORD-2602-00774,2026-02-06,C-0129,Arc Desk Lamp,Lighting,West,1,74.16,74.16
+ORD-2501-00775,2025-01-13,C-0227,Halo Floor Lamp,Lighting,Southeast,2,157.41,314.82
+ORD-2502-00776,2025-02-04,C-0107,Task Lamp Mini,Lighting,Midwest,2,39.27,78.54
+ORD-2511-00777,2025-11-16,C-0282,Felt Pen Pack,Stationery,Midwest,1,14.51,14.51
+ORD-2509-00778,2025-09-17,C-0027,Wireless Keyboard,Accessories,West,1,87.01,87.01
+ORD-2508-00779,2025-08-12,C-0008,Felt Pen Pack,Stationery,Northeast,1,13.85,13.85
+ORD-2510-00780,2025-10-10,C-0022,Precision Mouse,Accessories,Midwest,1,51.78,51.78
+ORD-2605-00781,2026-05-02,C-0128,Canvas Tote,Accessories,Northeast,1,25.04,25.04
+ORD-2504-00782,2025-04-04,C-0321,Canvas Tote,Accessories,Northeast,1,25.80,25.80
+ORD-2512-00783,2025-12-31,C-0065,Canvas Tote,Accessories,Midwest,2,25.12,50.24
+ORD-2511-00784,2025-11-21,C-0225,Felt Pen Pack,Stationery,Southwest,2,14.58,29.16
+ORD-2501-00785,2025-01-22,C-0021,Canvas Tote,Accessories,Midwest,1,22.60,22.60
+ORD-2603-00786,2026-03-25,C-0291,Precision Mouse,Accessories,Northeast,1,53.91,53.91
+ORD-2512-00787,2025-12-23,C-0307,Form Task Chair,Furniture,West,1,306.00,306.00
+ORD-2506-00788,2025-06-14,C-0135,Arc Desk Lamp,Lighting,Midwest,1,75.45,75.45
+ORD-2604-00789,2026-04-10,C-0095,Arc Desk Lamp,Lighting,West,1,76.49,76.49
+ORD-2601-00790,2026-01-08,C-0276,Notebook Set,Stationery,West,1,18.64,18.64
+ORD-2507-00791,2025-07-14,C-0314,Precision Mouse,Accessories,Southeast,1,54.44,54.44
+ORD-2602-00792,2026-02-24,C-0035,Canvas Tote,Accessories,Northeast,1,24.09,24.09
+ORD-2505-00793,2025-05-13,C-0099,Task Lamp Mini,Lighting,Northeast,1,39.36,39.36
+ORD-2602-00794,2026-02-02,C-0132,Canvas Tote,Accessories,Northeast,1,24.77,24.77
+ORD-2508-00795,2025-08-15,C-0107,Precision Mouse,Accessories,Southwest,1,57.72,57.72
+ORD-2503-00796,2025-03-23,C-0213,Wireless Keyboard,Accessories,West,1,87.02,87.02
+ORD-2503-00797,2025-03-01,C-0037,Notebook Set,Stationery,West,1,16.68,16.68
+ORD-2503-00798,2025-03-21,C-0119,Felt Pen Pack,Stationery,Midwest,3,13.10,39.30
+ORD-2507-00799,2025-07-14,C-0092,Task Lamp Mini,Lighting,Midwest,1,42.47,42.47
+ORD-2603-00800,2026-03-02,C-0235,Notebook Set,Stationery,Southwest,2,18.22,36.44
+ORD-2603-00801,2026-03-14,C-0206,Desk Organizer,Stationery,Midwest,1,34.16,34.16
+ORD-2506-00802,2025-06-11,C-0162,Precision Mouse,Accessories,Midwest,1,57.75,57.75
+ORD-2511-00803,2025-11-29,C-0166,Desk Organizer,Stationery,Southwest,1,36.77,36.77
+ORD-2508-00804,2025-08-08,C-0185,Oak Side Table,Furniture,West,1,143.40,143.40
+ORD-2604-00805,2026-04-04,C-0146,Felt Pen Pack,Stationery,Midwest,1,12.96,12.96
+ORD-2606-00806,2026-06-15,C-0114,Halo Floor Lamp,Lighting,Southeast,2,151.05,302.10
+ORD-2511-00807,2025-11-19,C-0142,Arc Desk Lamp,Lighting,West,2,80.37,160.74
+ORD-2606-00808,2026-06-08,C-0020,Precision Mouse,Accessories,Midwest,3,51.02,153.06
+ORD-2506-00809,2025-06-09,C-0120,Halo Floor Lamp,Lighting,Southeast,1,166.16,166.16
+ORD-2511-00810,2025-11-04,C-0040,Halo Floor Lamp,Lighting,Southwest,1,174.97,174.97
+ORD-2605-00811,2026-05-10,C-0296,Task Lamp Mini,Lighting,West,2,43.27,86.54
+ORD-2504-00812,2025-04-08,C-0296,Precision Mouse,Accessories,Southeast,1,55.99,55.99
+ORD-2502-00813,2025-02-27,C-0223,Felt Pen Pack,Stationery,Southeast,1,14.85,14.85
+ORD-2505-00814,2025-05-04,C-0309,Desk Organizer,Stationery,West,1,36.88,36.88
+ORD-2601-00815,2026-01-27,C-0290,Arc Desk Lamp,Lighting,Northeast,1,75.75,75.75
+ORD-2605-00816,2026-05-30,C-0202,Canvas Tote,Accessories,West,1,24.67,24.67
+ORD-2606-00817,2026-06-01,C-0076,Halo Floor Lamp,Lighting,Northeast,1,171.51,171.51
+ORD-2503-00818,2025-03-26,C-0135,Wireless Keyboard,Accessories,Northeast,2,89.69,179.38
+ORD-2605-00819,2026-05-29,C-0247,Wireless Keyboard,Accessories,Midwest,1,92.73,92.73
+ORD-2605-00820,2026-05-15,C-0269,Oak Side Table,Furniture,Southeast,1,139.35,139.35
+ORD-2503-00821,2025-03-15,C-0295,Studio Desk,Furniture,Northeast,1,437.56,437.56
+ORD-2602-00822,2026-02-28,C-0305,Wireless Keyboard,Accessories,Southwest,1,86.45,86.45
+ORD-2511-00823,2025-11-09,C-0227,Task Lamp Mini,Lighting,Southwest,1,44.16,44.16
+ORD-2603-00824,2026-03-28,C-0192,Arc Desk Lamp,Lighting,Northeast,2,74.25,148.50
+ORD-2503-00825,2025-03-29,C-0076,Halo Floor Lamp,Lighting,West,1,175.78,175.78
+ORD-2510-00826,2025-10-22,C-0231,Arc Desk Lamp,Lighting,Midwest,1,73.15,73.15
+ORD-2512-00827,2025-12-06,C-0268,Task Lamp Mini,Lighting,Southwest,1,40.01,40.01
+ORD-2605-00828,2026-05-10,C-0010,Canvas Tote,Accessories,Southeast,4,24.75,99.00
+ORD-2606-00829,2026-06-24,C-0317,Arc Desk Lamp,Lighting,Southeast,1,75.30,75.30
+ORD-2604-00830,2026-04-22,C-0139,Canvas Tote,Accessories,Southwest,1,23.57,23.57
+ORD-2601-00831,2026-01-04,C-0333,Desk Organizer,Stationery,Southeast,1,38.12,38.12
+ORD-2601-00832,2026-01-25,C-0249,Wireless Keyboard,Accessories,West,2,94.75,189.50
+ORD-2606-00833,2026-06-29,C-0288,Halo Floor Lamp,Lighting,West,1,176.25,176.25
+ORD-2501-00834,2025-01-23,C-0251,Arc Desk Lamp,Lighting,Southeast,3,75.57,226.71
+ORD-2506-00835,2025-06-10,C-0155,Arc Desk Lamp,Lighting,Southeast,1,76.20,76.20
+ORD-2605-00836,2026-05-29,C-0199,Studio Desk,Furniture,West,1,408.52,408.52
+ORD-2501-00837,2025-01-31,C-0175,Felt Pen Pack,Stationery,West,3,13.39,40.17
+ORD-2505-00838,2025-05-21,C-0314,Halo Floor Lamp,Lighting,West,1,176.09,176.09
+ORD-2508-00839,2025-08-21,C-0160,Oak Side Table,Furniture,West,1,136.38,136.38
+ORD-2512-00840,2025-12-04,C-0298,Wireless Keyboard,Accessories,Midwest,1,91.17,91.17
+ORD-2507-00841,2025-07-27,C-0269,Desk Organizer,Stationery,West,1,37.18,37.18
+ORD-2603-00842,2026-03-17,C-0290,Felt Pen Pack,Stationery,West,3,13.21,39.63
+ORD-2511-00843,2025-11-22,C-0095,Arc Desk Lamp,Lighting,Southeast,1,80.74,80.74
+ORD-2505-00844,2025-05-30,C-0212,Notebook Set,Stationery,West,2,19.09,38.18
+ORD-2511-00845,2025-11-07,C-0141,Wireless Keyboard,Accessories,Northeast,3,94.61,283.83
+ORD-2507-00846,2025-07-12,C-0314,Halo Floor Lamp,Lighting,Southwest,1,170.89,170.89
+ORD-2508-00847,2025-08-25,C-0041,Precision Mouse,Accessories,Southwest,1,49.91,49.91
+ORD-2605-00848,2026-05-04,C-0333,Halo Floor Lamp,Lighting,Southeast,2,163.18,326.36
+ORD-2602-00849,2026-02-01,C-0017,Wireless Keyboard,Accessories,Southeast,1,84.63,84.63
+ORD-2501-00850,2025-01-16,C-0104,Felt Pen Pack,Stationery,Southwest,3,13.38,40.14
+ORD-2503-00851,2025-03-09,C-0316,Task Lamp Mini,Lighting,Midwest,3,41.59,124.77
+ORD-2511-00852,2025-11-29,C-0022,Desk Organizer,Stationery,Southwest,2,35.58,71.16
+ORD-2601-00853,2026-01-25,C-0293,Notebook Set,Stationery,Midwest,1,19.26,19.26
+ORD-2606-00854,2026-06-22,C-0056,Canvas Tote,Accessories,Midwest,2,22.23,44.46
+ORD-2502-00855,2025-02-13,C-0021,Desk Organizer,Stationery,Midwest,1,36.22,36.22
+ORD-2606-00856,2026-06-13,C-0226,Notebook Set,Stationery,Southeast,3,17.11,51.33
+ORD-2511-00857,2025-11-08,C-0151,Notebook Set,Stationery,Southwest,1,17.04,17.04
+ORD-2502-00858,2025-02-25,C-0331,Canvas Tote,Accessories,Midwest,2,23.86,47.72
+ORD-2605-00859,2026-05-28,C-0280,Halo Floor Lamp,Lighting,Northeast,2,175.49,350.98
+ORD-2602-00860,2026-02-28,C-0104,Form Task Chair,Furniture,West,1,286.86,286.86
+ORD-2504-00861,2025-04-03,C-0084,Studio Desk,Furniture,Southwest,1,452.69,452.69
+ORD-2505-00862,2025-05-07,C-0044,Halo Floor Lamp,Lighting,Midwest,2,167.52,335.04
+ORD-2601-00863,2026-01-29,C-0082,Notebook Set,Stationery,Southeast,3,18.32,54.96
+ORD-2601-00864,2026-01-25,C-0077,Arc Desk Lamp,Lighting,Northeast,1,75.94,75.94
+ORD-2505-00865,2025-05-29,C-0159,Task Lamp Mini,Lighting,Southwest,2,41.46,82.92
+ORD-2604-00866,2026-04-02,C-0104,Form Task Chair,Furniture,Northeast,1,307.43,307.43
+ORD-2509-00867,2025-09-17,C-0003,Arc Desk Lamp,Lighting,Southwest,1,77.98,77.98
+ORD-2605-00868,2026-05-21,C-0210,Studio Desk,Furniture,Midwest,1,423.35,423.35
+ORD-2501-00869,2025-01-07,C-0286,Studio Desk,Furniture,West,1,433.14,433.14
+ORD-2508-00870,2025-08-01,C-0019,Arc Desk Lamp,Lighting,Northeast,1,79.91,79.91
+ORD-2502-00871,2025-02-03,C-0045,Canvas Tote,Accessories,Northeast,2,23.23,46.46
+ORD-2603-00872,2026-03-03,C-0305,Felt Pen Pack,Stationery,Midwest,1,13.52,13.52
+ORD-2507-00873,2025-07-01,C-0019,Felt Pen Pack,Stationery,Northeast,2,13.69,27.38
+ORD-2511-00874,2025-11-03,C-0219,Form Task Chair,Furniture,West,2,303.81,607.62
+ORD-2503-00875,2025-03-08,C-0141,Form Task Chair,Furniture,Southeast,1,298.00,298.00
+ORD-2602-00876,2026-02-28,C-0056,Precision Mouse,Accessories,Midwest,1,54.97,54.97
+ORD-2606-00877,2026-06-26,C-0148,Felt Pen Pack,Stationery,Midwest,1,14.42,14.42
+ORD-2511-00878,2025-11-21,C-0067,Studio Desk,Furniture,Southwest,1,433.38,433.38
+ORD-2605-00879,2026-05-24,C-0093,Precision Mouse,Accessories,West,1,53.94,53.94
+ORD-2508-00880,2025-08-27,C-0013,Canvas Tote,Accessories,Midwest,3,22.09,66.27
+ORD-2505-00881,2025-05-01,C-0213,Notebook Set,Stationery,Southeast,1,18.33,18.33
+ORD-2512-00882,2025-12-08,C-0328,Form Task Chair,Furniture,Northeast,2,275.70,551.40
+ORD-2510-00883,2025-10-16,C-0282,Studio Desk,Furniture,Southeast,1,411.42,411.42
+ORD-2501-00884,2025-01-07,C-0292,Halo Floor Lamp,Lighting,Southwest,1,161.27,161.27
+ORD-2501-00885,2025-01-30,C-0246,Desk Organizer,Stationery,West,1,37.92,37.92
+ORD-2502-00886,2025-02-06,C-0275,Canvas Tote,Accessories,West,1,24.49,24.49
+ORD-2604-00887,2026-04-19,C-0267,Notebook Set,Stationery,Southeast,1,18.70,18.70
+ORD-2511-00888,2025-11-20,C-0170,Precision Mouse,Accessories,West,1,54.67,54.67
+ORD-2512-00889,2025-12-29,C-0174,Arc Desk Lamp,Lighting,West,1,82.25,82.25
+ORD-2506-00890,2025-06-19,C-0158,Precision Mouse,Accessories,Southwest,1,54.82,54.82
+ORD-2511-00891,2025-11-19,C-0122,Canvas Tote,Accessories,Southeast,1,22.41,22.41
+ORD-2511-00892,2025-11-06,C-0020,Task Lamp Mini,Lighting,West,1,39.39,39.39
+ORD-2504-00893,2025-04-05,C-0257,Wireless Keyboard,Accessories,Northeast,1,88.75,88.75
+ORD-2512-00894,2025-12-15,C-0168,Felt Pen Pack,Stationery,Northeast,2,14.05,28.10
+ORD-2504-00895,2025-04-11,C-0068,Notebook Set,Stationery,Southeast,3,18.51,55.53
+ORD-2502-00896,2025-02-07,C-0003,Wireless Keyboard,Accessories,Southeast,2,89.32,178.64
+ORD-2502-00897,2025-02-15,C-0240,Canvas Tote,Accessories,West,1,22.41,22.41
+ORD-2504-00898,2025-04-16,C-0296,Precision Mouse,Accessories,Southwest,1,52.38,52.38
+ORD-2508-00899,2025-08-03,C-0164,Form Task Chair,Furniture,West,1,278.67,278.67
+ORD-2505-00900,2025-05-01,C-0319,Studio Desk,Furniture,Midwest,1,398.78,398.78
+ORD-2504-00901,2025-04-15,C-0073,Task Lamp Mini,Lighting,West,1,40.78,40.78
+ORD-2510-00902,2025-10-18,C-0174,Precision Mouse,Accessories,Midwest,1,52.37,52.37
+ORD-2502-00903,2025-02-21,C-0055,Halo Floor Lamp,Lighting,Southeast,1,168.61,168.61
+ORD-2503-00904,2025-03-30,C-0304,Wireless Keyboard,Accessories,Southwest,1,90.37,90.37
+ORD-2604-00905,2026-04-02,C-0274,Canvas Tote,Accessories,Northeast,1,25.22,25.22
+ORD-2604-00906,2026-04-22,C-0240,Precision Mouse,Accessories,Northeast,1,56.61,56.61
+ORD-2511-00907,2025-11-14,C-0119,Canvas Tote,Accessories,West,2,23.87,47.74
+ORD-2505-00908,2025-05-28,C-0201,Desk Organizer,Stationery,Northeast,1,38.38,38.38
+ORD-2512-00909,2025-12-05,C-0016,Notebook Set,Stationery,Northeast,2,17.87,35.74
+ORD-2504-00910,2025-04-26,C-0179,Form Task Chair,Furniture,Southwest,1,273.78,273.78
+ORD-2505-00911,2025-05-11,C-0055,Wireless Keyboard,Accessories,Southeast,1,92.05,92.05
+ORD-2503-00912,2025-03-14,C-0212,Notebook Set,Stationery,Southeast,1,17.71,17.71
+ORD-2509-00913,2025-09-07,C-0175,Precision Mouse,Accessories,Southeast,3,53.00,159.00
+ORD-2603-00914,2026-03-18,C-0279,Notebook Set,Stationery,Southwest,1,18.83,18.83
+ORD-2506-00915,2025-06-27,C-0294,Canvas Tote,Accessories,West,1,25.65,25.65
+ORD-2504-00916,2025-04-28,C-0228,Precision Mouse,Accessories,Northeast,1,54.48,54.48
+ORD-2602-00917,2026-02-20,C-0195,Arc Desk Lamp,Lighting,Southeast,1,81.92,81.92
+ORD-2503-00918,2025-03-04,C-0326,Halo Floor Lamp,Lighting,West,2,174.16,348.32
+ORD-2505-00919,2025-05-31,C-0316,Canvas Tote,Accessories,Midwest,1,23.20,23.20
+ORD-2507-00920,2025-07-20,C-0156,Task Lamp Mini,Lighting,West,2,40.65,81.30
+ORD-2603-00921,2026-03-22,C-0299,Notebook Set,Stationery,Northeast,2,19.41,38.82
+ORD-2606-00922,2026-06-07,C-0190,Oak Side Table,Furniture,West,1,133.46,133.46
+ORD-2502-00923,2025-02-24,C-0057,Arc Desk Lamp,Lighting,West,1,83.97,83.97
+ORD-2502-00924,2025-02-01,C-0163,Studio Desk,Furniture,Southwest,2,417.81,835.62
+ORD-2602-00925,2026-02-20,C-0244,Oak Side Table,Furniture,Northeast,1,141.59,141.59
+ORD-2601-00926,2026-01-29,C-0148,Desk Organizer,Stationery,West,1,35.52,35.52
+ORD-2505-00927,2025-05-09,C-0250,Halo Floor Lamp,Lighting,Southwest,1,151.29,151.29
+ORD-2505-00928,2025-05-20,C-0234,Halo Floor Lamp,Lighting,West,1,161.79,161.79
+ORD-2603-00929,2026-03-12,C-0231,Canvas Tote,Accessories,Southeast,1,23.71,23.71
+ORD-2508-00930,2025-08-20,C-0122,Task Lamp Mini,Lighting,Southwest,1,42.52,42.52
+ORD-2510-00931,2025-10-03,C-0020,Oak Side Table,Furniture,Midwest,1,135.06,135.06
+ORD-2601-00932,2026-01-13,C-0073,Halo Floor Lamp,Lighting,Southwest,1,169.00,169.00
+ORD-2606-00933,2026-06-24,C-0239,Felt Pen Pack,Stationery,Midwest,4,14.62,58.48
+ORD-2606-00934,2026-06-20,C-0040,Desk Organizer,Stationery,Southwest,1,35.84,35.84
+ORD-2511-00935,2025-11-16,C-0006,Precision Mouse,Accessories,Midwest,2,54.30,108.60
+ORD-2606-00936,2026-06-09,C-0181,Desk Organizer,Stationery,West,1,35.03,35.03
+ORD-2510-00937,2025-10-29,C-0156,Form Task Chair,Furniture,Southwest,1,308.55,308.55
+ORD-2509-00938,2025-09-24,C-0027,Arc Desk Lamp,Lighting,Southwest,1,73.87,73.87
+ORD-2510-00939,2025-10-26,C-0043,Notebook Set,Stationery,Northeast,1,17.39,17.39
+ORD-2503-00940,2025-03-20,C-0144,Desk Organizer,Stationery,Southeast,1,33.88,33.88
+ORD-2509-00941,2025-09-21,C-0303,Arc Desk Lamp,Lighting,Southwest,1,73.94,73.94
+ORD-2604-00942,2026-04-03,C-0121,Oak Side Table,Furniture,Midwest,1,144.24,144.24
+ORD-2606-00943,2026-06-25,C-0075,Desk Organizer,Stationery,Midwest,1,33.61,33.61
+ORD-2506-00944,2025-06-07,C-0197,Desk Organizer,Stationery,Southeast,2,35.50,71.00
+ORD-2603-00945,2026-03-27,C-0177,Notebook Set,Stationery,Northeast,1,18.22,18.22
+ORD-2509-00946,2025-09-28,C-0205,Notebook Set,Stationery,Midwest,1,17.04,17.04
+ORD-2605-00947,2026-05-03,C-0195,Notebook Set,Stationery,Southwest,2,18.09,36.18
+ORD-2602-00948,2026-02-04,C-0007,Wireless Keyboard,Accessories,Southeast,1,94.27,94.27
+ORD-2604-00949,2026-04-05,C-0022,Oak Side Table,Furniture,Northeast,1,138.67,138.67
+ORD-2606-00950,2026-06-29,C-0334,Canvas Tote,Accessories,West,3,23.74,71.22
+ORD-2512-00951,2025-12-10,C-0300,Studio Desk,Furniture,Southeast,2,408.36,816.72
+ORD-2509-00952,2025-09-05,C-0173,Notebook Set,Stationery,Southwest,1,17.12,17.12
+ORD-2507-00953,2025-07-04,C-0035,Form Task Chair,Furniture,Northeast,1,266.27,266.27
+ORD-2504-00954,2025-04-11,C-0146,Precision Mouse,Accessories,Southeast,1,52.72,52.72
+ORD-2502-00955,2025-02-04,C-0112,Arc Desk Lamp,Lighting,West,1,83.47,83.47
+ORD-2505-00956,2025-05-05,C-0067,Canvas Tote,Accessories,Southeast,1,25.37,25.37
+ORD-2507-00957,2025-07-09,C-0240,Desk Organizer,Stationery,Southwest,1,34.58,34.58
+ORD-2503-00958,2025-03-19,C-0219,Canvas Tote,Accessories,Southwest,3,23.14,69.42
+ORD-2511-00959,2025-11-28,C-0032,Studio Desk,Furniture,Southeast,2,409.86,819.72
+ORD-2512-00960,2025-12-07,C-0092,Felt Pen Pack,Stationery,Midwest,1,14.70,14.70
+ORD-2605-00961,2026-05-19,C-0331,Felt Pen Pack,Stationery,Midwest,1,13.76,13.76
+ORD-2505-00962,2025-05-28,C-0055,Precision Mouse,Accessories,West,1,54.98,54.98
+ORD-2509-00963,2025-09-23,C-0129,Halo Floor Lamp,Lighting,West,1,165.87,165.87
+ORD-2501-00964,2025-01-20,C-0020,Desk Organizer,Stationery,Southwest,1,36.81,36.81
+ORD-2509-00965,2025-09-30,C-0002,Halo Floor Lamp,Lighting,Midwest,1,161.15,161.15
+ORD-2605-00966,2026-05-18,C-0036,Wireless Keyboard,Accessories,Midwest,1,92.24,92.24
+ORD-2501-00967,2025-01-04,C-0063,Oak Side Table,Furniture,Midwest,1,144.18,144.18
+ORD-2601-00968,2026-01-03,C-0332,Form Task Chair,Furniture,Northeast,1,268.43,268.43
+ORD-2512-00969,2025-12-15,C-0332,Halo Floor Lamp,Lighting,Northeast,1,170.99,170.99
+ORD-2502-00970,2025-02-10,C-0200,Felt Pen Pack,Stationery,West,1,13.55,13.55
+ORD-2601-00971,2026-01-03,C-0098,Wireless Keyboard,Accessories,Northeast,2,88.12,176.24
+ORD-2507-00972,2025-07-17,C-0200,Arc Desk Lamp,Lighting,Northeast,4,74.74,298.96
+ORD-2511-00973,2025-11-12,C-0009,Wireless Keyboard,Accessories,Northeast,3,93.44,280.32
+ORD-2502-00974,2025-02-27,C-0109,Form Task Chair,Furniture,West,2,284.63,569.26
+ORD-2606-00975,2026-06-20,C-0077,Wireless Keyboard,Accessories,Southwest,1,94.33,94.33
+ORD-2508-00976,2025-08-27,C-0335,Felt Pen Pack,Stationery,Northeast,1,13.20,13.20
+ORD-2502-00977,2025-02-16,C-0324,Studio Desk,Furniture,Northeast,1,391.98,391.98
+ORD-2511-00978,2025-11-11,C-0303,Notebook Set,Stationery,Northeast,1,18.32,18.32
+ORD-2504-00979,2025-04-19,C-0033,Halo Floor Lamp,Lighting,West,1,167.03,167.03
+ORD-2603-00980,2026-03-13,C-0206,Form Task Chair,Furniture,Southeast,2,300.00,600.00
+ORD-2505-00981,2025-05-21,C-0024,Form Task Chair,Furniture,Midwest,3,275.74,827.22
+ORD-2512-00982,2025-12-10,C-0087,Arc Desk Lamp,Lighting,Southwest,1,81.21,81.21
+ORD-2506-00983,2025-06-18,C-0052,Wireless Keyboard,Accessories,West,3,82.46,247.38
+ORD-2601-00984,2026-01-21,C-0004,Notebook Set,Stationery,Northeast,1,17.96,17.96
+ORD-2504-00985,2025-04-02,C-0244,Canvas Tote,Accessories,Southwest,1,23.17,23.17
+ORD-2507-00986,2025-07-31,C-0123,Halo Floor Lamp,Lighting,West,1,162.70,162.70
+ORD-2502-00987,2025-02-08,C-0046,Precision Mouse,Accessories,Southwest,2,54.97,109.94
+ORD-2511-00988,2025-11-05,C-0061,Form Task Chair,Furniture,West,1,276.78,276.78
+ORD-2504-00989,2025-04-08,C-0260,Canvas Tote,Accessories,Southeast,2,25.87,51.74
+ORD-2508-00990,2025-08-02,C-0243,Studio Desk,Furniture,Midwest,1,445.17,445.17
+ORD-2506-00991,2025-06-13,C-0146,Canvas Tote,Accessories,Southeast,1,24.56,24.56
+ORD-2509-00992,2025-09-15,C-0023,Form Task Chair,Furniture,Northeast,2,300.95,601.90
+ORD-2502-00993,2025-02-23,C-0249,Felt Pen Pack,Stationery,Midwest,1,14.64,14.64
+ORD-2503-00994,2025-03-14,C-0167,Desk Organizer,Stationery,Southeast,2,36.53,73.06
+ORD-2511-00995,2025-11-30,C-0122,Studio Desk,Furniture,Southwest,1,406.49,406.49
+ORD-2507-00996,2025-07-24,C-0249,Oak Side Table,Furniture,Northeast,1,137.36,137.36
+ORD-2603-00997,2026-03-23,C-0199,Halo Floor Lamp,Lighting,Southeast,3,162.82,488.46
+ORD-2604-00998,2026-04-14,C-0104,Notebook Set,Stationery,Southeast,1,19.37,19.37
+ORD-2502-00999,2025-02-02,C-0239,Canvas Tote,Accessories,Midwest,1,22.60,22.60
+ORD-2506-01000,2025-06-25,C-0081,Notebook Set,Stationery,West,1,17.41,17.41
+ORD-2506-01001,2025-06-24,C-0211,Precision Mouse,Accessories,West,1,51.66,51.66
+ORD-2605-01002,2026-05-16,C-0237,Desk Organizer,Stationery,Southeast,1,35.85,35.85
+ORD-2603-01003,2026-03-15,C-0297,Notebook Set,Stationery,Southeast,1,17.50,17.50
+ORD-2506-01004,2025-06-02,C-0023,Desk Organizer,Stationery,Northeast,2,35.53,71.06
+ORD-2604-01005,2026-04-27,C-0202,Notebook Set,Stationery,Midwest,1,17.79,17.79
+ORD-2504-01006,2025-04-11,C-0007,Wireless Keyboard,Accessories,Southwest,1,89.83,89.83
+ORD-2602-01007,2026-02-21,C-0332,Felt Pen Pack,Stationery,West,1,13.54,13.54
+ORD-2501-01008,2025-01-17,C-0293,Wireless Keyboard,Accessories,Southwest,1,91.90,91.90
+ORD-2501-01009,2025-01-25,C-0208,Felt Pen Pack,Stationery,Northeast,1,13.19,13.19
+ORD-2601-01010,2026-01-15,C-0322,Canvas Tote,Accessories,Northeast,2,22.09,44.18
+ORD-2512-01011,2025-12-07,C-0314,Precision Mouse,Accessories,Midwest,1,56.18,56.18
+ORD-2508-01012,2025-08-01,C-0029,Notebook Set,Stationery,Midwest,1,19.10,19.10
+ORD-2601-01013,2026-01-08,C-0317,Desk Organizer,Stationery,Northeast,1,35.23,35.23
+ORD-2601-01014,2026-01-11,C-0105,Task Lamp Mini,Lighting,Northeast,1,39.09,39.09
+ORD-2512-01015,2025-12-09,C-0298,Studio Desk,Furniture,West,1,423.54,423.54
+ORD-2508-01016,2025-08-03,C-0137,Notebook Set,Stationery,Midwest,2,17.48,34.96
+ORD-2603-01017,2026-03-10,C-0249,Studio Desk,Furniture,Midwest,1,414.48,414.48
+ORD-2505-01018,2025-05-06,C-0150,Wireless Keyboard,Accessories,Midwest,1,93.63,93.63
+ORD-2601-01019,2026-01-12,C-0034,Notebook Set,Stationery,Northeast,3,18.89,56.67
+ORD-2604-01020,2026-04-14,C-0040,Halo Floor Lamp,Lighting,Northeast,1,155.57,155.57
+ORD-2510-01021,2025-10-10,C-0105,Halo Floor Lamp,Lighting,Midwest,1,154.83,154.83
+ORD-2501-01022,2025-01-24,C-0068,Form Task Chair,Furniture,Midwest,3,290.92,872.76
+ORD-2603-01023,2026-03-07,C-0033,Wireless Keyboard,Accessories,Northeast,1,86.03,86.03
+ORD-2508-01024,2025-08-26,C-0297,Desk Organizer,Stationery,Southeast,1,35.05,35.05
+ORD-2512-01025,2025-12-01,C-0281,Wireless Keyboard,Accessories,Midwest,1,89.43,89.43
+ORD-2511-01026,2025-11-08,C-0134,Precision Mouse,Accessories,Southeast,2,52.33,104.66
+ORD-2601-01027,2026-01-16,C-0181,Felt Pen Pack,Stationery,Southeast,2,12.99,25.98
+ORD-2506-01028,2025-06-20,C-0094,Canvas Tote,Accessories,West,1,24.14,24.14
+ORD-2506-01029,2025-06-07,C-0295,Task Lamp Mini,Lighting,Northeast,1,45.32,45.32
+ORD-2509-01030,2025-09-24,C-0163,Oak Side Table,Furniture,West,1,142.57,142.57
+ORD-2506-01031,2025-06-01,C-0155,Oak Side Table,Furniture,Northeast,1,130.55,130.55
+ORD-2501-01032,2025-01-26,C-0235,Oak Side Table,Furniture,West,1,130.17,130.17
+ORD-2506-01033,2025-06-09,C-0170,Arc Desk Lamp,Lighting,Southwest,2,83.94,167.88
+ORD-2510-01034,2025-10-30,C-0294,Wireless Keyboard,Accessories,Southwest,1,95.32,95.32
+ORD-2603-01035,2026-03-29,C-0021,Form Task Chair,Furniture,Northeast,1,288.03,288.03
+ORD-2504-01036,2025-04-30,C-0229,Form Task Chair,Furniture,Southeast,1,304.76,304.76
+ORD-2512-01037,2025-12-01,C-0114,Arc Desk Lamp,Lighting,West,1,79.04,79.04
+ORD-2510-01038,2025-10-12,C-0045,Task Lamp Mini,Lighting,West,1,44.35,44.35
+ORD-2602-01039,2026-02-08,C-0029,Task Lamp Mini,Lighting,West,1,42.71,42.71
+ORD-2601-01040,2026-01-05,C-0198,Oak Side Table,Furniture,Southeast,2,136.40,272.80
+ORD-2510-01041,2025-10-19,C-0288,Form Task Chair,Furniture,Northeast,1,286.48,286.48
+ORD-2603-01042,2026-03-31,C-0084,Notebook Set,Stationery,West,1,17.83,17.83
+ORD-2603-01043,2026-03-11,C-0307,Notebook Set,Stationery,Northeast,1,18.97,18.97
+ORD-2508-01044,2025-08-01,C-0172,Form Task Chair,Furniture,Northeast,4,290.17,1160.68
+ORD-2601-01045,2026-01-20,C-0213,Halo Floor Lamp,Lighting,Northeast,1,174.87,174.87
+ORD-2604-01046,2026-04-19,C-0096,Canvas Tote,Accessories,West,2,22.61,45.22
+ORD-2510-01047,2025-10-24,C-0300,Precision Mouse,Accessories,Southeast,1,56.82,56.82
+ORD-2604-01048,2026-04-20,C-0154,Studio Desk,Furniture,West,2,401.47,802.94
+ORD-2604-01049,2026-04-29,C-0092,Halo Floor Lamp,Lighting,Midwest,1,158.43,158.43
+ORD-2509-01050,2025-09-08,C-0035,Arc Desk Lamp,Lighting,Midwest,2,77.91,155.82
+ORD-2601-01051,2026-01-06,C-0322,Precision Mouse,Accessories,Southwest,1,57.18,57.18
+ORD-2505-01052,2025-05-03,C-0133,Oak Side Table,Furniture,Northeast,2,127.35,254.70
+ORD-2503-01053,2025-03-01,C-0183,Halo Floor Lamp,Lighting,Northeast,1,169.07,169.07
+ORD-2510-01054,2025-10-07,C-0025,Form Task Chair,Furniture,Southeast,1,310.05,310.05
+ORD-2606-01055,2026-06-27,C-0322,Canvas Tote,Accessories,Northeast,1,22.82,22.82
+ORD-2504-01056,2025-04-07,C-0162,Precision Mouse,Accessories,West,1,52.47,52.47
+ORD-2511-01057,2025-11-05,C-0274,Studio Desk,Furniture,Midwest,1,415.65,415.65
+ORD-2505-01058,2025-05-28,C-0249,Arc Desk Lamp,Lighting,Southeast,1,76.42,76.42
+ORD-2506-01059,2025-06-16,C-0097,Halo Floor Lamp,Lighting,West,1,156.68,156.68
+ORD-2606-01060,2026-06-23,C-0059,Desk Organizer,Stationery,Southeast,2,37.17,74.34
+ORD-2503-01061,2025-03-20,C-0179,Halo Floor Lamp,Lighting,Southeast,1,151.34,151.34
+ORD-2601-01062,2026-01-07,C-0268,Halo Floor Lamp,Lighting,Southwest,1,176.79,176.79
+ORD-2512-01063,2025-12-17,C-0061,Task Lamp Mini,Lighting,Southeast,1,43.64,43.64
+ORD-2505-01064,2025-05-26,C-0041,Canvas Tote,Accessories,Midwest,1,22.89,22.89
+ORD-2504-01065,2025-04-25,C-0022,Halo Floor Lamp,Lighting,Northeast,2,170.75,341.50
+ORD-2502-01066,2025-02-03,C-0061,Notebook Set,Stationery,West,1,16.73,16.73
+ORD-2502-01067,2025-02-14,C-0064,Arc Desk Lamp,Lighting,West,1,81.18,81.18
+ORD-2507-01068,2025-07-30,C-0015,Precision Mouse,Accessories,Northeast,1,55.47,55.47
+ORD-2510-01069,2025-10-12,C-0257,Felt Pen Pack,Stationery,West,1,13.24,13.24
+ORD-2509-01070,2025-09-05,C-0008,Wireless Keyboard,Accessories,Midwest,1,93.55,93.55
+ORD-2507-01071,2025-07-16,C-0003,Felt Pen Pack,Stationery,West,1,14.57,14.57
+ORD-2504-01072,2025-04-12,C-0244,Felt Pen Pack,Stationery,Southeast,3,14.79,44.37
+ORD-2507-01073,2025-07-09,C-0182,Wireless Keyboard,Accessories,West,3,84.46,253.38
+ORD-2603-01074,2026-03-11,C-0161,Task Lamp Mini,Lighting,Northeast,1,39.40,39.40
+ORD-2504-01075,2025-04-23,C-0148,Precision Mouse,Accessories,Midwest,1,52.80,52.80
+ORD-2502-01076,2025-02-11,C-0234,Halo Floor Lamp,Lighting,Midwest,1,160.98,160.98
+ORD-2511-01077,2025-11-16,C-0209,Canvas Tote,Accessories,Southeast,2,22.95,45.90
+ORD-2603-01078,2026-03-15,C-0244,Task Lamp Mini,Lighting,West,1,44.29,44.29
+ORD-2601-01079,2026-01-12,C-0054,Task Lamp Mini,Lighting,Southeast,4,41.94,167.76
+ORD-2606-01080,2026-06-20,C-0206,Canvas Tote,Accessories,Southwest,1,22.63,22.63
+ORD-2504-01081,2025-04-15,C-0187,Notebook Set,Stationery,West,2,17.05,34.10
+ORD-2512-01082,2025-12-13,C-0120,Task Lamp Mini,Lighting,West,2,41.36,82.72
+ORD-2605-01083,2026-05-27,C-0140,Studio Desk,Furniture,Southwest,2,430.57,861.14
+ORD-2602-01084,2026-02-14,C-0249,Form Task Chair,Furniture,Midwest,1,309.81,309.81
+ORD-2505-01085,2025-05-31,C-0255,Notebook Set,Stationery,Southeast,1,17.28,17.28
+ORD-2505-01086,2025-05-18,C-0256,Arc Desk Lamp,Lighting,Southwest,2,82.12,164.24
+ORD-2507-01087,2025-07-03,C-0319,Oak Side Table,Furniture,Southwest,1,130.33,130.33
+ORD-2503-01088,2025-03-20,C-0239,Canvas Tote,Accessories,Northeast,1,23.97,23.97
+ORD-2605-01089,2026-05-25,C-0277,Wireless Keyboard,Accessories,Midwest,1,86.77,86.77
+ORD-2502-01090,2025-02-02,C-0231,Felt Pen Pack,Stationery,Southeast,2,13.15,26.30
+ORD-2601-01091,2026-01-21,C-0156,Wireless Keyboard,Accessories,West,1,84.40,84.40
+ORD-2506-01092,2025-06-18,C-0250,Wireless Keyboard,Accessories,Southwest,1,92.07,92.07
+ORD-2605-01093,2026-05-18,C-0244,Canvas Tote,Accessories,Midwest,1,24.28,24.28
+ORD-2506-01094,2025-06-10,C-0194,Wireless Keyboard,Accessories,Southwest,1,88.92,88.92
+ORD-2512-01095,2025-12-28,C-0303,Notebook Set,Stationery,Northeast,1,16.74,16.74
+ORD-2601-01096,2026-01-11,C-0321,Form Task Chair,Furniture,Southeast,2,267.12,534.24
+ORD-2504-01097,2025-04-10,C-0029,Wireless Keyboard,Accessories,Southwest,4,87.75,351.00
+ORD-2509-01098,2025-09-11,C-0034,Studio Desk,Furniture,West,1,396.78,396.78
+ORD-2504-01099,2025-04-28,C-0236,Form Task Chair,Furniture,Southwest,1,280.96,280.96
+ORD-2603-01100,2026-03-09,C-0241,Precision Mouse,Accessories,Midwest,2,51.98,103.96
+ORD-2511-01101,2025-11-21,C-0251,Oak Side Table,Furniture,Northeast,1,139.60,139.60
+ORD-2507-01102,2025-07-30,C-0174,Form Task Chair,Furniture,Northeast,1,301.25,301.25
+ORD-2511-01103,2025-11-03,C-0039,Form Task Chair,Furniture,West,1,288.86,288.86
+ORD-2508-01104,2025-08-08,C-0206,Form Task Chair,Furniture,West,1,311.95,311.95
+ORD-2504-01105,2025-04-05,C-0140,Notebook Set,Stationery,Northeast,1,18.26,18.26
+ORD-2606-01106,2026-06-28,C-0334,Wireless Keyboard,Accessories,West,1,93.21,93.21
+ORD-2606-01107,2026-06-01,C-0103,Notebook Set,Stationery,Southeast,1,18.12,18.12
+ORD-2509-01108,2025-09-15,C-0093,Canvas Tote,Accessories,West,1,25.01,25.01
+ORD-2606-01109,2026-06-13,C-0240,Desk Organizer,Stationery,Southeast,1,34.35,34.35
+ORD-2606-01110,2026-06-30,C-0290,Notebook Set,Stationery,Southwest,2,19.17,38.34
+ORD-2503-01111,2025-03-03,C-0078,Precision Mouse,Accessories,Southwest,1,50.96,50.96
+ORD-2511-01112,2025-11-04,C-0033,Desk Organizer,Stationery,Southwest,1,38.07,38.07
+ORD-2602-01113,2026-02-27,C-0308,Studio Desk,Furniture,Southeast,1,401.92,401.92
+ORD-2509-01114,2025-09-02,C-0159,Halo Floor Lamp,Lighting,Midwest,1,157.32,157.32
+ORD-2603-01115,2026-03-23,C-0140,Wireless Keyboard,Accessories,Northeast,2,84.76,169.52
+ORD-2509-01116,2025-09-22,C-0330,Notebook Set,Stationery,West,1,18.15,18.15
+ORD-2605-01117,2026-05-13,C-0161,Notebook Set,Stationery,Midwest,1,19.14,19.14
+ORD-2503-01118,2025-03-07,C-0047,Desk Organizer,Stationery,Southeast,1,35.21,35.21
+ORD-2505-01119,2025-05-24,C-0062,Studio Desk,Furniture,Midwest,1,425.02,425.02
+ORD-2606-01120,2026-06-22,C-0063,Studio Desk,Furniture,West,2,407.19,814.38
+ORD-2511-01121,2025-11-17,C-0121,Form Task Chair,Furniture,West,1,283.91,283.91
+ORD-2508-01122,2025-08-12,C-0226,Halo Floor Lamp,Lighting,Southeast,1,176.33,176.33
+ORD-2502-01123,2025-02-27,C-0163,Wireless Keyboard,Accessories,Midwest,1,95.39,95.39
+ORD-2605-01124,2026-05-02,C-0075,Canvas Tote,Accessories,Southeast,3,25.46,76.38
+ORD-2601-01125,2026-01-12,C-0311,Notebook Set,Stationery,Northeast,1,19.34,19.34
+ORD-2502-01126,2025-02-25,C-0283,Canvas Tote,Accessories,Southeast,2,23.00,46.00
+ORD-2601-01127,2026-01-07,C-0122,Desk Organizer,Stationery,West,1,36.20,36.20
+ORD-2602-01128,2026-02-02,C-0131,Arc Desk Lamp,Lighting,Southeast,3,83.34,250.02
+ORD-2508-01129,2025-08-30,C-0225,Form Task Chair,Furniture,Southwest,2,273.29,546.58
+ORD-2602-01130,2026-02-21,C-0252,Notebook Set,Stationery,Midwest,1,16.79,16.79
+ORD-2602-01131,2026-02-27,C-0052,Felt Pen Pack,Stationery,West,1,13.83,13.83
+ORD-2509-01132,2025-09-25,C-0281,Wireless Keyboard,Accessories,Southwest,1,90.45,90.45
+ORD-2604-01133,2026-04-10,C-0095,Canvas Tote,Accessories,Southwest,2,24.54,49.08
+ORD-2505-01134,2025-05-20,C-0295,Arc Desk Lamp,Lighting,Northeast,1,75.57,75.57
+ORD-2506-01135,2025-06-11,C-0333,Studio Desk,Furniture,Southwest,2,443.20,886.40
+ORD-2602-01136,2026-02-25,C-0069,Notebook Set,Stationery,Southeast,1,17.94,17.94
+ORD-2512-01137,2025-12-02,C-0094,Notebook Set,Stationery,Southeast,1,17.75,17.75
+ORD-2601-01138,2026-01-22,C-0012,Felt Pen Pack,Stationery,West,2,13.38,26.76
+ORD-2508-01139,2025-08-23,C-0087,Desk Organizer,Stationery,Northeast,3,34.26,102.78
+ORD-2603-01140,2026-03-16,C-0088,Precision Mouse,Accessories,West,1,57.96,57.96
+ORD-2505-01141,2025-05-01,C-0233,Arc Desk Lamp,Lighting,West,1,81.41,81.41
+ORD-2605-01142,2026-05-22,C-0137,Halo Floor Lamp,Lighting,Southeast,2,155.88,311.76
+ORD-2605-01143,2026-05-22,C-0111,Oak Side Table,Furniture,West,1,131.52,131.52
+ORD-2510-01144,2025-10-17,C-0075,Notebook Set,Stationery,Northeast,1,17.08,17.08
+ORD-2509-01145,2025-09-26,C-0299,Studio Desk,Furniture,Southwest,1,407.89,407.89
+ORD-2604-01146,2026-04-15,C-0204,Halo Floor Lamp,Lighting,Southwest,1,173.75,173.75
+ORD-2601-01147,2026-01-28,C-0049,Canvas Tote,Accessories,Midwest,2,23.06,46.12
+ORD-2502-01148,2025-02-23,C-0311,Form Task Chair,Furniture,West,1,307.88,307.88
+ORD-2502-01149,2025-02-16,C-0203,Arc Desk Lamp,Lighting,Southwest,1,76.51,76.51
+ORD-2505-01150,2025-05-16,C-0134,Felt Pen Pack,Stationery,Northeast,1,14.18,14.18
+ORD-2605-01151,2026-05-20,C-0163,Felt Pen Pack,Stationery,Southwest,2,13.18,26.36
+ORD-2603-01152,2026-03-20,C-0066,Halo Floor Lamp,Lighting,Midwest,1,152.04,152.04
+ORD-2510-01153,2025-10-15,C-0135,Notebook Set,Stationery,Southwest,3,17.37,52.11
+ORD-2509-01154,2025-09-28,C-0252,Precision Mouse,Accessories,Southwest,1,51.11,51.11
+ORD-2506-01155,2025-06-04,C-0226,Precision Mouse,Accessories,Northeast,3,55.18,165.54
+ORD-2506-01156,2025-06-02,C-0084,Arc Desk Lamp,Lighting,Southwest,1,77.63,77.63
+ORD-2603-01157,2026-03-23,C-0227,Halo Floor Lamp,Lighting,Southeast,2,163.87,327.74
+ORD-2605-01158,2026-05-12,C-0076,Wireless Keyboard,Accessories,Northeast,1,92.13,92.13
+ORD-2504-01159,2025-04-06,C-0261,Task Lamp Mini,Lighting,West,1,44.25,44.25
+ORD-2508-01160,2025-08-06,C-0293,Precision Mouse,Accessories,Northeast,3,54.22,162.66
+ORD-2503-01161,2025-03-20,C-0169,Studio Desk,Furniture,Northeast,1,397.41,397.41
+ORD-2505-01162,2025-05-05,C-0166,Oak Side Table,Furniture,Northeast,1,147.96,147.96
+ORD-2503-01163,2025-03-25,C-0322,Wireless Keyboard,Accessories,West,2,88.71,177.42
+ORD-2501-01164,2025-01-06,C-0232,Form Task Chair,Furniture,Southeast,1,294.66,294.66
+ORD-2505-01165,2025-05-13,C-0166,Task Lamp Mini,Lighting,West,1,42.97,42.97
+ORD-2503-01166,2025-03-14,C-0131,Precision Mouse,Accessories,Northeast,1,50.48,50.48
+ORD-2602-01167,2026-02-13,C-0207,Halo Floor Lamp,Lighting,Southeast,2,155.16,310.32
+ORD-2506-01168,2025-06-07,C-0159,Halo Floor Lamp,Lighting,West,1,162.23,162.23
+ORD-2505-01169,2025-05-15,C-0103,Form Task Chair,Furniture,Midwest,1,282.87,282.87
+ORD-2602-01170,2026-02-02,C-0217,Wireless Keyboard,Accessories,West,1,87.90,87.90
+ORD-2507-01171,2025-07-10,C-0175,Wireless Keyboard,Accessories,West,1,82.46,82.46
+ORD-2508-01172,2025-08-18,C-0270,Canvas Tote,Accessories,Southwest,2,25.65,51.30
+ORD-2606-01173,2026-06-22,C-0245,Halo Floor Lamp,Lighting,Southeast,1,152.96,152.96
+ORD-2505-01174,2025-05-11,C-0219,Canvas Tote,Accessories,Southeast,1,23.03,23.03
+ORD-2502-01175,2025-02-18,C-0262,Precision Mouse,Accessories,Midwest,2,54.12,108.24
+ORD-2504-01176,2025-04-07,C-0182,Wireless Keyboard,Accessories,Southeast,2,93.45,186.90
+ORD-2503-01177,2025-03-25,C-0237,Notebook Set,Stationery,Northeast,1,18.69,18.69
+ORD-2507-01178,2025-07-06,C-0153,Desk Organizer,Stationery,Southeast,1,35.52,35.52
+ORD-2604-01179,2026-04-11,C-0175,Notebook Set,Stationery,West,1,18.89,18.89
+ORD-2507-01180,2025-07-11,C-0133,Task Lamp Mini,Lighting,West,1,45.24,45.24
+ORD-2504-01181,2025-04-19,C-0007,Wireless Keyboard,Accessories,Northeast,1,87.50,87.50
+ORD-2605-01182,2026-05-04,C-0309,Wireless Keyboard,Accessories,Southwest,1,91.25,91.25
+ORD-2511-01183,2025-11-07,C-0203,Canvas Tote,Accessories,West,3,23.47,70.41
+ORD-2503-01184,2025-03-31,C-0009,Halo Floor Lamp,Lighting,Southwest,1,153.82,153.82
+ORD-2507-01185,2025-07-12,C-0333,Desk Organizer,Stationery,Southeast,1,36.86,36.86
+ORD-2507-01186,2025-07-15,C-0217,Halo Floor Lamp,Lighting,Northeast,2,154.77,309.54
+ORD-2506-01187,2025-06-20,C-0249,Desk Organizer,Stationery,Midwest,2,35.68,71.36
+ORD-2604-01188,2026-04-06,C-0201,Precision Mouse,Accessories,Northeast,1,54.60,54.60
+ORD-2501-01189,2025-01-09,C-0213,Halo Floor Lamp,Lighting,West,2,162.21,324.42
+ORD-2510-01190,2025-10-25,C-0314,Arc Desk Lamp,Lighting,West,1,78.17,78.17
+ORD-2605-01191,2026-05-15,C-0296,Studio Desk,Furniture,Southeast,1,392.29,392.29
+ORD-2503-01192,2025-03-07,C-0060,Studio Desk,Furniture,Midwest,1,451.46,451.46
+ORD-2512-01193,2025-12-22,C-0099,Wireless Keyboard,Accessories,Midwest,1,84.18,84.18
+ORD-2603-01194,2026-03-25,C-0174,Studio Desk,Furniture,West,1,452.82,452.82
+ORD-2604-01195,2026-04-25,C-0214,Halo Floor Lamp,Lighting,West,1,169.55,169.55
+ORD-2601-01196,2026-01-04,C-0319,Notebook Set,Stationery,Southeast,2,18.99,37.98
+ORD-2503-01197,2025-03-30,C-0311,Canvas Tote,Accessories,Midwest,1,22.85,22.85
+ORD-2603-01198,2026-03-02,C-0286,Felt Pen Pack,Stationery,Northeast,1,13.41,13.41
+ORD-2501-01199,2025-01-19,C-0090,Form Task Chair,Furniture,West,1,297.18,297.18
+ORD-2605-01200,2026-05-31,C-0317,Arc Desk Lamp,Lighting,Southeast,1,77.13,77.13
