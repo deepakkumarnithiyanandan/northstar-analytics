@@ -18,6 +18,7 @@ For a complete file-by-file explanation, data-flow walkthrough, API/schema detai
 - Chart recommendations returned as structured API data and rendered by the React client.
 - Optional OpenAI-compatible answer enrichment. Without a key, deterministic analytics answers remain available.
 - Docker Compose deployment with PostgreSQL, FastAPI, and an Nginx-served frontend.
+- Optional Databricks sales lakehouse pipeline, with shared Power BI and Tableau reporting views.
 
 ## Architecture
 
@@ -33,6 +34,8 @@ flowchart LR
 ```
 
 The frontend only calls REST endpoints; it never contains database credentials or SQL. FastAPI validates and normalizes uploads, computes analytics against a selected dataset, and returns typed response models. The optional LLM receives a question and precomputed aggregate metrics; it cannot submit or execute SQL. The API owns chart recommendations and chart data, and the frontend renders the returned visualization type.
+
+The optional cloud analytics path is documented in the [Databricks lakehouse and BI guide](docs/LAKEHOUSE_AND_BI.md). It reads a sales CSV into Databricks Bronze/Silver/Gold Delta tables and provides shared reporting views for Power BI and Tableau directly from Databricks.
 
 ## Technology
 
