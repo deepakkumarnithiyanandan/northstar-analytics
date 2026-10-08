@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<datasource
+    formatted-name="Northstar Databricks"
+    inline="true"
+    version="21.3"
+    xmlns:user="http://www.tableausoftware.com/xml/user">
+  <connection class="federated">
+    <named-connections>
+      <named-connection
+          caption="YOUR_DATABRICKS_HOST"
+          name="databricks.northstar">
+        <connection
+            authentication="oauth"
+            instanceurl="https://YOUR_DATABRICKS_HOST/oidc"
+            server-oauth="server-custom"
+            username=""
+            authentication-type=""
+            class="databricks"
+            odbc-connect-string-extras=""
+            one-time-sql=""
+            _.fcp.DatabricksCatalog.false...dbname="/sql/1.0/warehouses/YOUR_WAREHOUSE_ID"
+            _.fcp.DatabricksCatalog.true...dbname="northstar_sales"
+            _.fcp.DatabricksCatalog.true...v-http-path="/sql/1.0/warehouses/YOUR_WAREHOUSE_ID"
+            schema="northstar_sales"
+            tableName=""
+            server="YOUR_DATABRICKS_HOST">
+          <connection-customization class="databricks" enabled="false" version="21.3">
+            <vendor name="databricks" />
+            <driver name="databricks" />
+          </connection-customization>
+        </connection>
+      </named-connection>
+    </named-connections>
+  </connection>
+</datasource>

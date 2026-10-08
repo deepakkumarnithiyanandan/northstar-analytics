@@ -26,6 +26,8 @@ The pipeline is a full refresh: each run replaces the Bronze, Silver, and Gold D
 
 The notebook does not require external connectors or credentials. For incremental production loads, replace the documented full-refresh behavior with a watermark or `MERGE` design after defining how updates and deletes are identified.
 
+Redacted connection templates are provided in [`bi-connections/power-bi`](../bi-connections/power-bi) and [`bi-connections/tableau`](../bi-connections/tableau). Replace `YOUR_DATABRICKS_HOST` and `YOUR_WAREHOUSE_ID` with the values from your warehouse's Connection details, then open the file in its BI application and authenticate there. These templates intentionally contain no personal workspace hostname, warehouse ID, token, or password.
+
 ## Shared BI Model
 
 Connect either BI tool to the Databricks SQL warehouse and select catalog `workspace`, schema `northstar_sales`. The common model is:
@@ -51,7 +53,7 @@ Recommended report pages:
 
 ### Power BI
 
-Use **Get Data > Azure Databricks**. Enter the Server Hostname and HTTP Path from your Databricks SQL warehouse, then authenticate using the method configured for your workspace. Select the `workspace.northstar_sales` views. Import mode is simplest for a small portfolio dataset; DirectQuery sends report queries to the SQL warehouse. Apply the relationships above and create these measures:
+Open the [Power BI connection template](../bi-connections/power-bi/northstar-databricks.pbids) after replacing its host and warehouse ID, or use **Get Data > Azure Databricks** and enter the Server Hostname and HTTP Path from your Databricks SQL warehouse. Authenticate using the method configured for your workspace. Select the `workspace.northstar_sales` views. Import mode is simplest for a small portfolio dataset; DirectQuery sends report queries to the SQL warehouse. Apply the relationships above and create these measures:
 
 ```DAX
 Revenue = SUM(fact_sales[revenue])
@@ -64,7 +66,7 @@ Use `dim_date[order_date]` for the trend axis and mark it as the model's date ta
 
 ### Tableau
 
-Use Tableau's Databricks connector and enter the same Server Hostname and HTTP Path. Select the `workspace.northstar_sales` views. Relate `fact_sales` to the four dimensions on the keys above; keep the relationship cardinalities one-to-many. Build the same KPI and report pages, with `order_date` as a continuous month for trend charts. Example calculated fields:
+Open the [Tableau connection template](../bi-connections/tableau/northstar-databricks.tds) after replacing its host and warehouse ID, or use Tableau's Databricks connector and enter the same Server Hostname and HTTP Path. Select the `workspace.northstar_sales` views. Relate `fact_sales` to the four dimensions on the keys above; keep the relationship cardinalities one-to-many. Build the same KPI and report pages, with `order_date` as a continuous month for trend charts. Example calculated fields:
 
 ```text
 Revenue: SUM([revenue])

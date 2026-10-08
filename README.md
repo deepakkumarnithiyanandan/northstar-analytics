@@ -37,6 +37,8 @@ The frontend only calls REST endpoints; it never contains database credentials o
 
 The optional cloud analytics path is documented in the [Databricks lakehouse and BI guide](docs/LAKEHOUSE_AND_BI.md). It reads a sales CSV into Databricks Bronze/Silver/Gold Delta tables and provides shared reporting views for Power BI and Tableau directly from Databricks.
 
+Redacted starter connection files for Power BI and Tableau are in [`bi-connections/`](bi-connections/). Replace the host and warehouse ID placeholders with values from your Databricks SQL warehouse.
+
 ## Technology
 
 - Frontend: React 19, TypeScript, Vite, Recharts, Lucide

@@ -1,0 +1,21 @@
+{
+  "version": "0.1",
+  "connections": [
+    {
+      "details": {
+        "protocol": "databricks-multicloud",
+        "address": {
+          "host": "YOUR_DATABRICKS_HOST",
+          "path": "/sql/1.0/warehouses/YOUR_WAREHOUSE_ID"
+        },
+        "authentication": null,
+        "query": null
+      },
+      "options": {
+        "Catalog": "workspace",
+        "Database": "northstar_sales"
+      },
+      "mode": "DirectQuery"
+    }
+  ]
+}
