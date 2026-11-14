@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5f3ed" />
+    <title>Daymark — Goal Planner Agent</title>
+    <link rel="stylesheet" href="/static/styles.css" />
+  </head>
+  <body>
+    <div class="page">
+      <header class="topbar">
+        <a class="brand" href="/" aria-label="Daymark home"><span class="brand-icon">d</span><span>daymark<span class="brand-note"> / your planning agent</span></span></a>
+        <div class="status"><span id="status-dot"></span><span id="status-text">Local workspace</span></div>
+      </header>
+
+      <main>
+        <section class="intro">
+          <div class="date-line"><span class="sun">✳</span> A LITTLE CLARITY GOES A LONG WAY</div>
+          <h1>Make a plan.<br /><i>Make it happen.</i></h1>
+          <p>Tell me what you're working toward. I'll turn it into a practical set of next steps, estimate the effort, and keep it here while you make progress.</p>
+        </section>
+
+        <section class="composer">
+          <div class="composer-top"><span class="step-tag">01 <span>·</span> THE GOAL</span><span class="private-tag">SAVED LOCALLY</span></div>
+          <form id="goal-form">
+            <label class="sr-only" for="goal">Describe your goal</label>
+            <textarea id="goal" maxlength="500" rows="2" placeholder="What would you like to accomplish?" required></textarea>
+            <div class="examples"><span>Try</span><button type="button">Prepare for a job interview</button><button type="button">Organize a weekend camping trip</button><button type="button">Learn the basics of watercolor</button></div>
+            <div class="form-footer"><span id="mode-note">No API key needed to get started.</span><button id="submit" class="primary-button" type="submit"><span>Build my plan</span><span aria-hidden="true">↗</span></button></div>
+          </form>
+        </section>
+
+        <section id="latest" class="latest" hidden>
+          <div class="section-head"><div><span class="step-tag">02 <span>·</span> YOUR PLAN</span><h2 id="plan-title"></h2></div><div id="progress" class="progress-label"></div></div>
+          <p id="plan-goal" class="plan-goal"></p>
+          <div id="task-list" class="task-list"></div>
+          <div class="total-time"><span>ESTIMATED FOCUS TIME</span><strong id="total-time"></strong></div>
+          <div class="trace">
+            <button id="trace-toggle" class="trace-toggle" type="button" aria-expanded="false"><span>How the agent worked</span><span id="trace-count">0 actions</span><span aria-hidden="true">⌄</span></button>
+            <div id="trace-items" class="trace-items" hidden></div>
+          </div>
+        </section>
+
+        <section class="saved">
+          <div class="section-head saved-head"><div><span class="step-tag">YOUR WORKSPACE</span><h2>Saved plans</h2></div><span class="saved-note">Stored in this local workspace</span></div>
+          <div id="saved-plans" class="saved-list"><p class="empty-note">Your plans will show up here.</p></div>
+        </section>
+      </main>
+      <footer><span>DAYMARK <span class="footer-muted">· GOAL PLANNER AGENT</span></span><span>Small steps count.</span></footer>
+    </div>
+    <script src="/static/app.js" defer></script>
+  </body>
+</html>
